@@ -19,7 +19,7 @@ get_ipython().system('pip install pygeocoder')
 get_ipython().system('ls')
 
 
-# In[2]:
+# In[18]:
 
 
 from tabula import read_pdf
@@ -93,3 +93,51 @@ all_data.shape
 # # Let's Geocode these Addresses
 # 
 # Good intro at https://chrisalbon.com/python/data_wrangling/geocoding_and_reverse_geocoding/
+
+# In[26]:
+
+
+result = Geocoder.geocode("1600 amphiteather parkway, mountain view, CA 94043")
+
+
+# In[27]:
+
+
+result.latitude, result.longitude, result.valid_address
+
+
+# In[32]:
+
+
+all_data.dtypes
+
+
+# In[33]:
+
+
+' '.join(['a', 'b'])
+
+
+# In[37]:
+
+
+all_data['address_full'] = all_data.apply(lambda x: ' '.join([x['street_number'], x['street_type'], x['quadrant'], 'Washington, DC'], axis=1))
+
+
+# In[44]:
+
+
+all_data['address_full'] = all_data.apply(lambda x: x['street_number'] + ' ' + x['street_name'] + ' ' + x['street_type'] + ' ' + x['quadrant'] + ' ' + 'Washington, DC', axis=1)
+
+
+# In[48]:
+
+
+all_data['geocode_object'] = all_data.address_full.apply(Geocoder.geocode)
+
+
+# In[47]:
+
+
+Geocoder.geocode('2002 11TH ST NW Washington, DC').valid_address
+
