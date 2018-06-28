@@ -1,0 +1,993 @@
+project_name,start_date,end_date,dslbd_proposed_budget,dslbd_approved_budget,non-dslbd_budget,total_proposed_project_costs,total_amount_submitted_by_grantee,total_cbe_expense_amount,approved_expenses,remaining_dslbd_funds_ytd,add_expense,year,proposal_number,org_code
+ED salary,2016-01-01 00:00:00,2016-09-30 00:00:00,37500.0,37500.0,12500,50000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=502&z=biah,2016,37,DCH
+SIPS,2016-01-01 00:00:00,2016-09-30 00:00:00,10000.0,10000.0,0,10000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=503&z=biah,2016,37,DCH
+DCH Branding,2016-01-01 00:00:00,2016-09-30 00:00:00,4300.0,4300.0,0,4300.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=564&z=biah,2016,37,DCH
+Business Adopt a Box- Tree box clean up,2016-05-02 00:00:00,2016-09-30 00:00:00,2000.0,2000.0,2000,4000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=563&z=biah,2016,37,DCH
+Art Mural,2016-03-01 00:00:00,2016-05-31 00:00:00,2500.0,2500.0,0,2500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=562&z=biah,2016,37,DCH
+MS Street Pole Banners,2016-03-01 00:00:00,2016-06-30 00:00:00,9500.0,9500.0,0,9500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=561&z=biah,2016,37,DCH
+Main Street Training ,2016-01-01 00:00:00,2016-09-30 00:00:00,7000.0,7000.0,0,7000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=544&z=biah,2016,37,DCH
+Business Re-Branding/Marketing,2016-05-09 00:00:00,2016-09-30 00:00:00,10000.0,10000.0,0,10000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=545&z=biah,2016,37,DCH
+MS Conference Registration,2016-05-22 00:00:00,2016-05-25 00:00:00,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=546&z=biah,2016,37,DCH
+MS Conference Registration Travel ,2016-05-22 00:00:00,2016-05-25 00:00:00,2000.0,2000.0,0,2000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=548&z=biah,2016,37,DCH
+DCH Website Design ,2016-01-01 00:00:00,2016-09-30 00:00:00,3000.0,3000.0,0,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=557&z=biah,2016,37,DCH
+DCH Logo Design ,2016-01-01 00:00:00,2016-02-29 00:00:00,1500.0,1500.0,0,1500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=558&z=biah,2016,37,DCH
+Main Streets Re-launch/Ribbon Cutting ,2016-05-02 00:00:00,2016-05-02 00:00:00,500.0,500.0,1500,2000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=574&z=biah,2016,37,DCH
+CH Parade & Festival,2016-01-01 00:00:00,2016-05-07 00:00:00,15000.0,15000.0,15000,30000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=549&z=biah,2016,37,DCH
+CH Great Street Small Biz Awards,2016-05-06 00:00:00,2016-05-06 00:00:00,3500.0,0.0,3000,6500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=547&z=biah,2016,37,DCH
+"""Honoring Congress Heights"" Historic Art Exhibit",2016-05-01 00:00:00,2016-05-07 00:00:00,1000.0,0.0,1500,2500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=575&z=biah,2016,37,DCH
+Market Research  ,2016-04-11 00:00:00,2016-07-29 00:00:00,11000.0,11000.0,0,11000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=559&z=biah,2016,37,DCH
+Interior/Exterior Re-Design Consultant,2016-04-04 00:00:00,2016-09-30 00:00:00,2200.0,2200.0,0,2200.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=560&z=biah,2016,37,DCH
+Art All Night,2016-08-01 00:00:00,2016-09-30 00:00:00,10000.0,10000.0,10000,20000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=576&z=biah,2016,37,DCH
+Storefront Improvements,2014-10-01 00:00:00,2014-12-29 00:00:00,5000.0,5000.0,3900,8900.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=383&z=bh88,2015,29,SMS
+Collaborative Cross Promotions,2014-10-01 00:00:00,2015-09-30 00:00:00,33000.0,33000.0,8000,41000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=382&z=bh88,2015,29,SMS
+Social Media & Web Marketing,2014-10-01 00:00:00,2015-09-30 00:00:00,4000.0,4000.0,0,4000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=385&z=bh88,2015,29,SMS
+Business Owner Meet & Greet and Business Buzz Breakfast,2014-10-01 00:00:00,2015-09-30 00:00:00,500.0,500.0,1800,2300.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=386&z=bh88,2015,29,SMS
+Banners,2015-03-01 00:00:00,2015-09-30 00:00:00,8000.0,8000.0,0,8000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=384&z=bh88,2015,29,SMS
+Black History Month Event,2015-02-02 00:00:00,2015-02-28 00:00:00,250.0,250.0,0,250.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=381&z=bh88,2015,29,SMS
+Update Business Directory and Dining Guide,2015-02-01 00:00:00,2015-09-30 00:00:00,5000.0,5000.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=380&z=bh88,2015,29,SMS
+ED Salary,2014-10-01 00:00:00,2015-09-30 00:00:00,37500.0,37500.0,30000,67500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=389&z=bh88,2015,29,SMS
+Newsletter (Print and Electronic),2014-10-01 00:00:00,2015-09-30 00:00:00,9000.0,9000.0,5000,14000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=369&z=bh88,2015,29,SMS
+Great American Main Street Award Application,2014-10-01 00:00:00,2015-09-30 00:00:00,5000.0,5000.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=372&z=bh88,2015,29,SMS
+Shawlloween Bar Crawl,2014-10-25 00:00:00,2014-10-25 00:00:00,300.0,300.0,0,300.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=379&z=bh88,2015,29,SMS
+Annual Meeting,2015-03-23 00:00:00,2015-03-27 00:00:00,1200.0,1200.0,3800,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=373&z=bh88,2015,29,SMS
+Art All Night,2015-09-26 00:00:00,2015-09-27 00:00:00,6000.0,6000.0,33000,39000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=378&z=bh88,2015,29,SMS
+Taste of Shaw,2015-09-01 00:00:00,2015-09-30 00:00:00,4000.0,4000.0,1000,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=377&z=bh88,2015,29,SMS
+Shaw Open House,2015-06-01 00:00:00,2015-06-30 00:00:00,4000.0,4000.0,0,4000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=376&z=bh88,2015,29,SMS
+Website Maintenance,2015-02-01 00:00:00,2015-03-31 00:00:00,500.0,500.0,0,500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=375&z=bh88,2015,29,SMS
+Volunteer Recruitment and Recognition Event,2015-04-01 00:00:00,2015-04-30 00:00:00,350.0,350.0,500,850.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=370&z=bh88,2015,29,SMS
+Annual Holiday Party/ SMS business showcase,2014-12-01 00:00:00,2014-12-05 00:00:00,400.0,400.0,15000,15400.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=371&z=bh88,2015,29,SMS
+Annual Report,2015-01-01 00:00:00,2015-03-27 00:00:00,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=374&z=bh88,2015,29,SMS
+Marketing & Promotion ,2015-10-01 00:00:00,2016-09-30 00:00:00,7000.0,7000.0,0,7000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=470&z=bh9z,2016,34,HSMS
+Training/NMSC conference,2015-10-01 00:00:00,2016-09-30 00:00:00,3000.0,3000.0,0,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=472&z=bh9z,2016,34,HSMS
+Technical Assistance,2015-10-01 00:00:00,2016-09-30 00:00:00,10000.0,10000.0,0,10000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=471&z=bh9z,2016,34,HSMS
+Main Streets Operations (Ed Salary),2015-10-01 00:00:00,2016-09-30 00:00:00,37500.0,37500.0,0,37500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=469&z=bh9z,2016,34,HSMS
+Business Needs Assessments & Planning,2015-10-01 00:00:00,2016-09-30 00:00:00,10000.0,10000.0,0,10000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=465&z=bh9z,2016,34,HSMS
+Audit,2015-10-01 00:00:00,2016-09-30 00:00:00,7000.0,7000.0,0,7000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=466&z=bh9z,2016,34,HSMS
+H Street Festival,2015-10-01 00:00:00,2016-09-30 00:00:00,20500.0,20500.0,0,20500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=467&z=bh9z,2016,34,HSMS
+Storefront Improvement,2015-10-01 00:00:00,2016-09-30 00:00:00,30000.0,30000.0,0,30000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=468&z=bh9z,2016,34,HSMS
+Annual Report,2016-05-01 00:00:00,2016-07-30 00:00:00,500.0,500.0,0,500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=394&z=bh96,2016,35,HDCMS
+Audit,2016-01-01 00:00:00,2016-03-31 00:00:00,5000.0,5000.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=395&z=bh96,2016,35,HDCMS
+Print Newsletter,2015-10-01 00:00:00,2016-09-30 00:00:00,16000.0,16000.0,600,16600.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=406&z=bh96,2016,35,HDCMS
+Staff,2015-10-01 00:00:00,2015-12-31 00:00:00,37500.0,37500.0,80000,117500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=405&z=bh96,2016,35,HDCMS
+Sign-Awning Grant,2015-10-01 00:00:00,2016-09-30 00:00:00,6000.0,6000.0,6000,12000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=404&z=bh96,2016,35,HDCMS
+Banner Permitting & Installation,2015-12-01 00:00:00,2016-01-31 00:00:00,3000.0,3000.0,10000,13000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=403&z=bh96,2016,35,HDCMS
+Art All Night,2016-09-24 00:00:00,2016-09-25 00:00:00,8000.0,8000.0,12000,20000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=402&z=bh96,2016,35,HDCMS
+Taste of Dupont,2016-04-01 00:00:00,2016-05-31 00:00:00,5000.0,5000.0,10000,15000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=400&z=bh96,2016,35,HDCMS
+Dupont Christmas Tree,2015-12-01 00:00:00,2015-12-31 00:00:00,1000.0,1000.0,1000,2000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=399&z=bh96,2016,35,HDCMS
+Print Advertising,2015-10-01 00:00:00,2016-09-30 00:00:00,6000.0,6000.0,4000,10000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=398&z=bh96,2016,35,HDCMS
+Website refresh,2015-11-01 00:00:00,2015-12-31 00:00:00,3000.0,3000.0,0,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=397&z=bh96,2016,35,HDCMS
+Main Street Conference,2016-04-01 00:00:00,2016-05-31 00:00:00,2000.0,2000.0,0,2000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=396&z=bh96,2016,35,HDCMS
+17th Street Festival,2016-09-10 00:00:00,2016-09-11 00:00:00,32000.0,32000.0,30000,62000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=401&z=bh96,2016,35,HDCMS
+Barks and Brews,,,2000.0,0.0,2000,4000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=850&z=biem,2018,63,VNMS
+Accounting Services,,,7000.0,7000.0,0,7000.0,1791.94,0.0,1791.94,5208.06,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=857&z=biem,2018,63,VNMS
+Van Ness Marketing ,,,5330.0,5330.0,0,5330.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=855&z=biem,2018,63,VNMS
+Administration,,,51100.0,51100.0,50750,101850.0,18878.09,0.0,18878.09,32221.91,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=860&z=biem,2018,63,VNMS
+Social Media Consultant,,,20000.0,20000.0,5000,25000.0,1000.0,0.0,500.0,19500.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=856&z=biem,2018,63,VNMS
+Van Ness Pop Ups,,,15000.0,15000.0,5000,20000.0,4984.0,0.0,4984.0,10016.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=853&z=biem,2018,63,VNMS
+Jazz@VN,,,2500.0,2500.0,0,2500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=848&z=biem,2018,63,VNMS
+Storefront Improvements sub grants,,,25470.0,25470.0,2000,27470.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=851&z=biem,2018,63,VNMS
+Training-Travel,,,2000.0,2000.0,500,2500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=859&z=biem,2018,63,VNMS
+Training-Registration,,,1000.0,1000.0,0,1000.0,350.0,0.0,350.0,650.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=858&z=biem,2018,63,VNMS
+Business to Business Breakfasts,,,200.0,200.0,0,200.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=854&z=biem,2018,63,VNMS
+Farmers Market,,,2500.0,2500.0,3000,5500.0,850.0,0.0,850.0,1650.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=847&z=biem,2018,63,VNMS
+Annual Meeting,,,500.0,500.0,1000,1500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=849&z=biem,2018,63,VNMS
+Wayfinding,,,25000.0,25000.0,25000,50000.0,350.0,0.0,350.0,24650.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=852&z=biem,2018,63,VNMS
+Executive Director,,,51100.0,51100.0,40000,91100.0,16766.68,0.0,16766.68,34333.32,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=969&z=bie5,2018,66,DCH
+MS Conference Travel,,,2000.0,2000.0,0,2000.0,2393.43,0.0,0.0,2000.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=924&z=bie5,2018,66,DCH
+Certified Audit,,,2500.0,2500.0,5000,7500.0,350.0,0.0,0.0,2500.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=960&z=bie5,2018,66,DCH
+SIPS,,,14400.0,14400.0,10000,24400.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=922&z=bie5,2018,66,DCH
+"DCH Monthly Newsletter, Social Media & Website Maintenance & Updates",,,6000.0,6000.0,6000,12000.0,3166.0,0.0,3166.0,2834.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=967&z=bie5,2018,66,DCH
+Store Front Redesign Consultant,,,3000.0,3000.0,0,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=964&z=bie5,2018,66,DCH
+Small Business Workshops,,,5000.0,5000.0,20000,25000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=966&z=bie5,2018,66,DCH
+Marketing & Branding Packages,,,5000.0,5000.0,3000,8000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=921&z=bie5,2018,66,DCH
+MS Conference Registration,,,1000.0,1000.0,0,1000.0,1290.0,0.0,0.0,1000.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=959&z=bie5,2018,66,DCH
+DCH Branding & Place Making Improvements,,,10000.0,10000.0,5000,15000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=961&z=bie5,2018,66,DCH
+"Printing, Office Supplies & Consumables",,,2000.0,0.0,16800,18800.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=962&z=bie5,2018,66,DCH
+Destination Congress Heights Business Corridor Summer Music Series,,,14000.0,14000.0,10000,24000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=963&z=bie5,2018,66,DCH
+Made in Ward 8 / Congress Heights - Creative Place maing Pop-Ups,,,16000.0,16000.0,10000,26000.0,1278.36,0.0,1278.36,14721.64,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=923&z=bie5,2018,66,DCH
+Art All Night 2018,,,11000.0,11000.0,35000,46000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=968&z=bie5,2018,66,DCH
+DCH Corridor Ambassadors ,,,5000.0,5000.0,0,5000.0,226.12,0.0,226.12,4773.88,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=965&z=bie5,2018,66,DCH
+Executive Director Salary,,,51000.0,51000.0,39000,90000.0,22500.0,0.0,22500.0,28500.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=971&z=bimn,2018,81,NCMS
+ED Training/Conference,,,3000.0,3000.0,0,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1046&z=bimn,2018,81,NCMS
+Chili Challenge,,,5500.0,5500.0,0,5500.0,4000.0,0.0,3969.08,1530.92,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1043&z=bimn,2018,81,NCMS
+Accounting/Audit,,,7000.0,7000.0,0,7000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1048&z=bimn,2018,81,NCMS
+Pop-Up Events,,,12500.0,12500.0,10000,22500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1045&z=bimn,2018,81,NCMS
+Marketing & Advertising,,,9500.0,9500.0,0,9500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1047&z=bimn,2018,81,NCMS
+Taste of NC,,,13000.0,13000.0,16000,29000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1044&z=bimn,2018,81,NCMS
+Website Maintenance,,,3500.0,3500.0,0,3500.0,91.12,0.0,71.12,3428.88,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1049&z=bimn,2018,81,NCMS
+Technical Assistance,,,41000.0,41000.0,0,41000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1042&z=bimn,2018,81,NCMS
+Operations,,,17500.0,17500.0,0,17500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1080&z=big5,2018,71,UMS
+Professional dues & membership,,,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1081&z=big5,2018,71,UMS
+Staff /volunteer travel,,,2000.0,2000.0,0,2000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1082&z=big5,2018,71,UMS
+Training,,,12000.0,12000.0,0,12000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1083&z=big5,2018,71,UMS
+Audit & Accounting,,,7000.0,7000.0,0,7000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1084&z=big5,2018,71,UMS
+Storefront Improvement Program,,,20000.0,20000.0,0,20000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1086&z=big5,2018,71,UMS
+Sub-grants to Business Owners,,,25000.0,25000.0,0,25000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1092&z=big5,2018,71,UMS
+Corridor Business Map ,,,4500.0,4500.0,0,4500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1091&z=big5,2018,71,UMS
+Executive Director Salary,,,55000.0,55000.0,5000,60000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1079&z=big5,2018,71,UMS
+Events,,,20000.0,20000.0,0,20000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1087&z=big5,2018,71,UMS
+Print and Electronic Communications,,,4000.0,4000.0,0,4000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1088&z=big5,2018,71,UMS
+Logo and Website,,,3000.0,3000.0,0,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1089&z=big5,2018,71,UMS
+Advertising,,,4000.0,4000.0,0,4000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1090&z=big5,2018,71,UMS
+Outreach to Business,2015-01-01 00:00:00,2015-03-31 00:00:00,2500.0,2500.0,0,2500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=270&z=bh7z,2015,19,BRMS
+Signage Grant,2014-10-01 00:00:00,2015-09-30 00:00:00,30000.0,30000.0,0,30000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=278&z=bh7z,2015,19,BRMS
+Annual Meeting,2015-01-01 00:00:00,2015-03-30 00:00:00,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=281&z=bh7z,2015,19,BRMS
+BRMS Business Map Project,2014-10-01 00:00:00,2015-09-30 00:00:00,4500.0,4500.0,0,4500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=269&z=bh7z,2015,19,BRMS
+Business Retention-SBTA,2014-10-01 00:00:00,2015-09-30 00:00:00,17500.0,17500.0,0,17500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=280&z=bh7z,2015,19,BRMS
+Business Retention,2014-10-01 00:00:00,2015-09-30 00:00:00,20000.0,20000.0,0,20000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=279&z=bh7z,2015,19,BRMS
+Share Ad Campaign,2014-10-01 00:00:00,2015-09-30 00:00:00,3000.0,3000.0,0,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=277&z=bh7z,2015,19,BRMS
+Volunteer Recruitment,2014-10-01 00:00:00,2015-09-30 00:00:00,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=276&z=bh7z,2015,19,BRMS
+Taste of 8th,2015-01-01 00:00:00,2015-05-31 00:00:00,5000.0,5000.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=275&z=bh7z,2015,19,BRMS
+Easter Egg Hunt,2015-03-30 00:00:00,2015-04-30 00:00:00,500.0,500.0,0,500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=274&z=bh7z,2015,19,BRMS
+ED Salary,2014-10-01 00:00:00,2015-09-30 00:00:00,37500.0,37500.0,0,37500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=272&z=bh7z,2015,19,BRMS
+Light pole banners,2014-10-01 00:00:00,2015-09-30 00:00:00,4000.0,4000.0,0,4000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=271&z=bh7z,2015,19,BRMS
+Santa Arrives on 8th Street,2014-11-01 00:00:00,2014-12-31 00:00:00,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=273&z=bh7z,2015,19,BRMS
+Design Principles,2016-12-01 00:00:00,2017-09-30 00:00:00,0.0,0.0,0,0.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=702&z=bibf,2017,43,VNMS
+Accounting Services,2016-10-01 00:00:00,2017-09-29 00:00:00,7000.0,7000.0,0,7000.0,12190.0,0.0,7000.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=721&z=bibf,2017,43,VNMS
+Administration,2016-10-01 00:00:00,2017-09-30 00:00:00,38700.0,38700.0,60585,99285.0,38700.0,0.0,38700.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=722&z=bibf,2017,43,VNMS
+NW Arts Conference,2017-03-25 00:00:00,2016-11-25 00:00:00,0.0,0.0,250,250.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=654&z=bibf,2017,43,VNMS
+Albemarle Corner Improvements,2016-11-01 00:00:00,2017-09-30 00:00:00,21530.21,21530.21,0,21530.21,21530.21,0.0,21530.21,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=701&z=bibf,2017,43,VNMS
+Workplan Training ,,,2310.0,2310.0,0,2310.0,2310.0,0.0,2310.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=862&z=bibf,2017,43,VNMS
+Barks and Brews,,,3404.96,3404.96,4000,7404.96,3404.96,0.0,3404.96,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=861&z=bibf,2017,43,VNMS
+National Main Street Membership & Conference,2017-05-01 00:00:00,2017-07-01 00:00:00,2134.69,2134.69,0,2134.69,2134.69,0.0,2134.69,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=720&z=bibf,2017,43,VNMS
+Downtown Diva Membership renewals,2016-10-01 00:00:00,2017-09-29 00:00:00,0.0,0.0,0,0.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=714&z=bibf,2017,43,VNMS
+Jazz@VN,2016-11-01 00:00:00,2017-09-30 00:00:00,3317.49,3317.49,0,3317.49,3317.49,0.0,3317.49,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=697&z=bibf,2017,43,VNMS
+Restaurant Consultant,2017-02-01 00:00:00,2017-09-29 00:00:00,4650.0,4650.0,0,4650.0,4650.0,0.0,4650.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=717&z=bibf,2017,43,VNMS
+Van Ness Marketing ,2017-02-15 00:00:00,2017-09-30 00:00:00,4519.69,4519.69,0,4519.69,4519.69,0.0,4519.69,-9.0949470177293e-13,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=732&z=bibf,2017,43,VNMS
+Online and printed business brochure,2017-01-02 00:00:00,2017-09-29 00:00:00,6253.1,6253.1,0,6253.1,6253.1,0.0,6253.1,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=719&z=bibf,2017,43,VNMS
+Wayfinding ,2017-01-01 00:00:00,2017-09-29 00:00:00,3041.83,3041.83,0,3041.83,3041.83,0.0,3041.83,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=704&z=bibf,2017,43,VNMS
+Van Ness Pop Ups,2016-10-01 00:00:00,2017-09-29 00:00:00,11405.25,11405.25,0,11405.25,11405.25,0.0,11405.25,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=715&z=bibf,2017,43,VNMS
+Retail Study,2017-03-01 00:00:00,2017-09-29 00:00:00,13000.0,13000.0,0,13000.0,13000.0,0.0,13000.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=718&z=bibf,2017,43,VNMS
+Annual Meeting,2016-12-01 00:00:00,2016-03-30 00:00:00,1451.6,1451.6,0,1451.6,1451.6,0.0,1451.6,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=698&z=bibf,2017,43,VNMS
+Farmers Market,2016-10-01 00:00:00,2017-09-30 00:00:00,4328.37,4328.37,0,4328.37,4328.37,0.0,4328.37,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=655&z=bibf,2017,43,VNMS
+Holiday Event,2016-11-01 00:00:00,2016-12-15 00:00:00,0.0,0.0,0,0.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=699&z=bibf,2017,43,VNMS
+Business to Busness Breakfasts,2016-10-01 00:00:00,2017-09-29 00:00:00,0.0,0.0,0,0.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=716&z=bibf,2017,43,VNMS
+Design Improvement Grants,2017-04-01 00:00:00,2017-09-30 00:00:00,0.0,0.0,5000,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=733&z=bibf,2017,43,VNMS
+Ribbon Cuttings,2016-10-01 00:00:00,2017-09-30 00:00:00,14.82,14.82,0,14.82,14.82,0.0,14.82,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=700&z=bibf,2017,43,VNMS
+Marketing,,,1937.99,1937.99,0,1937.99,1937.99,0.0,1937.99,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=909&z=bibf,2017,43,VNMS
+Fund Raising,2016-10-03 00:00:00,2017-09-29 00:00:00,0.0,0.0,0,0.0,6400.0,0.0,0.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=728&z=bib9,2017,49,DHMS
+Website Management,2016-10-03 00:00:00,2017-09-29 00:00:00,3500.0,3500.0,1000,4500.0,7650.0,0.0,7650.0,-4150.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=729&z=bib9,2017,49,DHMS
+Newsletter/Photographer,2017-01-02 00:00:00,2017-09-29 00:00:00,2500.0,2500.0,1000,3500.0,6100.0,0.0,6050.0,-3550.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=727&z=bib9,2017,49,DHMS
+Seasonal Newspaper Ads,2016-11-01 00:00:00,2017-09-29 00:00:00,5000.0,5000.0,0,5000.0,4066.5,0.0,4066.5,933.5,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=734&z=bib9,2017,49,DHMS
+Storefront Improvements-signs,2017-01-04 00:00:00,2017-06-28 00:00:00,19500.0,19500.0,0,19500.0,20320.0,0.0,20320.0,-820.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=735&z=bib9,2017,49,DHMS
+Main Streets Building Sign,2017-01-31 00:00:00,2017-05-31 00:00:00,400.0,0.0,0,400.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=736&z=bib9,2017,49,DHMS
+Market Analysys,2016-10-03 00:00:00,2017-08-01 00:00:00,19000.0,19000.0,0,19000.0,14750.0,0.0,14750.0,4250.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=731&z=bib9,2017,49,DHMS
+SBTA Grant preparation,,,3700.0,3700.0,0,3700.0,2300.0,0.0,2300.0,1400.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=803&z=bib9,2017,49,DHMS
+Annual WDCEP Neighborhoods Ad,,,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=804&z=bib9,2017,49,DHMS
+Annual Business/Community Event,2016-12-21 00:00:00,2017-09-29 00:00:00,3000.0,3000.0,3000,6000.0,3152.79,0.0,3152.79,-152.79,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=737&z=bib9,2017,49,DHMS
+Volunteer Recruitment & Retention,2016-10-03 00:00:00,2017-09-29 00:00:00,1500.0,1500.0,0,1500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=739&z=bib9,2017,49,DHMS
+National small business week,2017-01-02 00:00:00,2017-05-30 00:00:00,1500.0,1500.0,0,1500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=740&z=bib9,2017,49,DHMS
+Annual Meeting Report,2016-10-03 00:00:00,2017-02-15 00:00:00,0.0,0.0,0,0.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=730&z=bib9,2017,49,DHMS
+ED salary & operations,2016-10-01 00:00:00,2017-09-30 00:00:00,38700.0,38700.0,35000,73700.0,38700.0,0.0,38700.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=750&z=bib9,2017,49,DHMS
+Street banners,,,2905.0,2905.0,0,2905.0,3695.0,0.0,3695.0,-790.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=802&z=bib9,2017,49,DHMS
+Audit & Accounting,,,7000.0,7000.0,0,7000.0,7000.0,0.0,7000.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=805&z=bib9,2017,49,DHMS
+Training and development,,,3000.0,3000.0,0,3000.0,2812.51,0.0,2812.51,187.49,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=806&z=bib9,2017,49,DHMS
+Pop Up space on NHB Ave,,,17000.0,17000.0,0,17000.0,15299.58,0.0,15299.58,1700.42,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=807&z=bib9,2017,49,DHMS
+FY2017 Fund Raising,2016-10-03 00:00:00,2017-09-29 00:00:00,5500.0,5500.0,0,5500.0,3200.0,0.0,3200.0,2300.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=738&z=bib9,2017,49,DHMS
+Business Promotional Event-Street Fair,2013-06-01 00:00:00,2013-09-30 00:00:00,5000.0,5000.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=133&z=bh9y,2013,6,CHMS
+TA Implementation,2013-02-01 00:00:00,2013-09-30 00:00:00,30000.0,30000.0,0,30000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=130&z=bh9y,2013,6,CHMS
+Business and Building Inventory,2013-02-01 00:00:00,2013-05-01 00:00:00,2500.0,2500.0,0,2500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=128&z=bh9y,2013,6,CHMS
+Residential Community & Biz Newsletter,2013-03-01 00:00:00,2013-09-30 00:00:00,3000.0,3000.0,0,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=136&z=bh9y,2013,6,CHMS
+Operate Effective Main Streets Program,2012-10-01 00:00:00,2013-09-30 00:00:00,60000.0,60000.0,0,60000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=15&z=bh9y,2013,6,CHMS
+Business Directory,2013-02-01 00:00:00,2013-04-30 00:00:00,4000.0,4000.0,0,4000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=131&z=bh9y,2013,6,CHMS
+Annual Report,2013-09-01 00:00:00,2013-09-30 00:00:00,500.0,500.0,0,500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=138&z=bh9y,2013,6,CHMS
+Back to School Event,2013-08-01 00:00:00,2013-09-30 00:00:00,4914.14,4914.14,0,4914.14,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=134&z=bh9y,2013,6,CHMS
+Light Pole Banners,2013-05-01 00:00:00,2013-07-31 00:00:00,8000.0,8000.0,0,8000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=126&z=bh9y,2013,6,CHMS
+Collaborative Cross Promotions: Advertising,2013-02-01 00:00:00,2013-09-30 00:00:00,10000.0,10000.0,0,10000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=135&z=bh9y,2013,6,CHMS
+Maintain CHMS Program Website,2013-01-01 00:00:00,2013-09-30 00:00:00,3000.0,3000.0,0,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=137&z=bh9y,2013,6,CHMS
+Storefront Improvement Program,2013-01-01 00:00:00,2013-09-30 00:00:00,60000.0,60000.0,0,60000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=127&z=bh9y,2013,6,CHMS
+Webpages for CHMS Businesses,2013-03-01 00:00:00,2013-09-30 00:00:00,5000.0,5000.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=132&z=bh9y,2013,6,CHMS
+Business Health Checks,2013-02-01 00:00:00,2013-07-31 00:00:00,5000.0,5000.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=129&z=bh9y,2013,6,CHMS
+RIA Radio,2016-10-01 00:00:00,2017-09-30 00:00:00,11725.0,11725.0,17075,28800.0,15492.52,0.0,15492.52,-3767.52,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=624&z=bicj,2017,51,FORIA
+TA - Individual,2016-10-01 00:00:00,2017-09-30 00:00:00,7000.0,7000.0,9000,16000.0,5910.0,0.0,5910.0,1090.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=625&z=bicj,2017,51,FORIA
+TA - Group,2016-10-01 00:00:00,2017-09-30 00:00:00,9075.0,9075.0,10425,19500.0,5220.0,0.0,5220.0,3855.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=629&z=bicj,2017,51,FORIA
+Audit,2017-01-01 00:00:00,2017-02-28 00:00:00,7000.0,7000.0,0,7000.0,6000.0,0.0,6000.0,1000.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=631&z=bicj,2017,51,FORIA
+NMS Membership,2016-11-01 00:00:00,2017-09-30 00:00:00,350.0,0.0,0,350.0,350.0,0.0,350.0,-350.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=633&z=bicj,2017,51,FORIA
+"NMSC (travel, membership & registration)",2016-12-01 00:00:00,2017-05-31 00:00:00,3000.0,3000.0,1000,4000.0,1186.96,0.0,1186.96,1813.04,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=632&z=bicj,2017,51,FORIA
+Annual Meeting,2017-02-01 00:00:00,2017-05-31 00:00:00,1000.0,1000.0,1500,2500.0,330.0,0.0,330.0,670.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=638&z=bicj,2017,51,FORIA
+Storefront Improvements,2016-10-01 00:00:00,2017-09-30 00:00:00,23150.0,23150.0,301000,324150.0,20294.5,0.0,20294.5,2855.5,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=646&z=bicj,2017,51,FORIA
+Corridor Promotions,2016-10-01 00:00:00,2017-09-30 00:00:00,1000.0,1000.0,0,1000.0,1877.36,0.0,1877.36,-877.36,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=640&z=bicj,2017,51,FORIA
+Board Development and Training ,2016-10-01 00:00:00,2017-09-30 00:00:00,1500.0,1500.0,500,2000.0,1537.5,0.0,1537.5,-37.5,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=635&z=bicj,2017,51,FORIA
+(up)Rising Art Festival,2017-01-01 00:00:00,2017-07-31 00:00:00,3500.0,3500.0,3500,7000.0,2354.95,0.0,2354.95,1145.05,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=641&z=bicj,2017,51,FORIA
+Procrastinators Holiday Market,2016-10-01 00:00:00,2017-09-30 00:00:00,5000.0,5000.0,7500,12500.0,4640.0,0.0,4640.0,360.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=642&z=bicj,2017,51,FORIA
+Fall Fest Week,2017-01-01 00:00:00,2017-09-30 00:00:00,4000.0,4000.0,8000,12000.0,14859.81,0.0,14859.81,-10859.81,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=639&z=bicj,2017,51,FORIA
+Small Business Saturday,2016-10-01 00:00:00,2016-11-30 00:00:00,200.0,200.0,0,200.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=643&z=bicj,2017,51,FORIA
+PorchFest,2017-01-01 00:00:00,2017-04-30 00:00:00,2000.0,2000.0,2000,4000.0,9671.74,0.0,9671.74,-7671.74,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=644&z=bicj,2017,51,FORIA
+Holiday decorations,2016-10-01 00:00:00,2016-09-30 00:00:00,500.0,500.0,0,500.0,74.86,0.0,74.86,425.14,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=647&z=bicj,2017,51,FORIA
+Art All Night Coordination,,,25000.0,0.0,0,25000.0,25000.0,0.0,25000.0,-25000.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=912&z=bicj,2017,51,FORIA
+Supplemental Admin Costs,,,3500.0,0.0,0,3500.0,3500.0,0.0,3500.0,-3500.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=913&z=bicj,2017,51,FORIA
+ED Payroll,2016-10-01 00:00:00,2016-09-30 00:00:00,38700.0,0.0,52500,91200.0,38700.0,0.0,38700.0,-38700.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=623&z=bicj,2017,51,FORIA
+Advertising,2016-10-01 00:00:00,2017-09-30 00:00:00,0.0,0.0,1000,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=645&z=bicj,2017,51,FORIA
+Scrim wrap for vacant properties,2016-10-01 00:00:00,2017-09-30 00:00:00,0.0,0.0,5000,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=648&z=bicj,2017,51,FORIA
+D&O Insurance,2016-10-01 00:00:00,2017-09-30 00:00:00,550.0,0.0,0,550.0,217.5,0.0,0.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=672&z=bicq,2017,52,NCMS
+Accounting 2017,2016-10-01 00:00:00,2017-09-30 00:00:00,7000.0,7000.0,0,7000.0,2606.82,0.0,2606.82,4393.18,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=671&z=bicq,2017,52,NCMS
+Small Business Saturday,2016-11-01 00:00:00,2016-11-30 00:00:00,2500.0,2500.0,0,2500.0,2421.21,0.0,2421.21,78.79,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=679&z=bicq,2017,52,NCMS
+Director training,2016-10-01 00:00:00,2017-09-30 00:00:00,3000.0,3000.0,0,3000.0,3531.08,0.0,3531.08,-531.08,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=673&z=bicq,2017,52,NCMS
+NMSC membership,2016-10-01 00:00:00,2017-09-30 00:00:00,350.0,0.0,0,350.0,350.0,0.0,0.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=674&z=bicq,2017,52,NCMS
+Marketing -assessments & social media TA,2016-10-01 00:00:00,2017-09-30 00:00:00,4000.0,4000.0,0,4000.0,1130.39,0.0,996.39,3003.61,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=678&z=bicq,2017,52,NCMS
+Kids Dance,2017-01-01 00:00:00,2017-06-30 00:00:00,1500.0,0.0,0,1500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=683&z=bicq,2017,52,NCMS
+Strategic Assesment,2016-10-01 00:00:00,2017-09-30 00:00:00,5200.0,5200.0,0,5200.0,5200.0,0.0,5200.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=675&z=bicq,2017,52,NCMS
+Annual meeting/report,2017-05-01 00:00:00,2017-05-31 00:00:00,1000.0,1000.0,0,1000.0,1343.0,0.0,1343.0,-343.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=676&z=bicq,2017,52,NCMS
+Chili Challenge,2016-11-01 00:00:00,2016-11-30 00:00:00,4000.0,4000.0,0,4000.0,4637.16,0.0,4637.16,-637.16,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=681&z=bicq,2017,52,NCMS
+Spring Business Showcase,2017-04-01 00:00:00,2017-05-31 00:00:00,11000.0,11000.0,20000,31000.0,13523.97,0.0,13523.97,-2523.97,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=682&z=bicq,2017,52,NCMS
+Spring Carnival,2017-05-01 00:00:00,2017-05-31 00:00:00,7000.0,0.0,0,7000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=684&z=bicq,2017,52,NCMS
+Street Scape and Store front improvement Projects,2016-10-01 00:00:00,2017-09-30 00:00:00,33000.0,33000.0,0,33000.0,32000.0,0.0,32000.0,1000.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=677&z=bicq,2017,52,NCMS
+NMCS Mapping Project,2017-02-28 00:00:00,2017-04-28 00:00:00,5000.0,5000.0,0,5000.0,5000.0,0.0,5000.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=771&z=bicq,2017,52,NCMS
+Art All Night,2017-09-01 00:00:00,2017-09-30 00:00:00,36666.0,36666.0,0,36666.0,48206.37,0.0,48206.37,-11540.37,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=680&z=bicq,2017,52,NCMS
+Executive Director Salary,2016-10-01 00:00:00,2017-09-30 00:00:00,38700.0,38700.0,0,38700.0,38700.0,0.0,38700.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=656&z=bicq,2017,52,NCMS
+Shaw Main Streets News ,2017-02-01 00:00:00,2017-03-31 00:00:00,5000.0,5000.0,5000,10000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=772&z=bidh,2017,57,SMS
+Volunteer Recognition,2017-02-01 00:00:00,2017-06-30 00:00:00,500.0,500.0,500,1000.0,399.0,0.0,399.0,101.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=773&z=bidh,2017,57,SMS
+A Taste of Shaw Annual Gala & Restaurant Showcase,2017-02-01 00:00:00,2017-04-30 00:00:00,500.0,500.0,35000,35500.0,3395.0,0.0,3395.0,-2895.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=774&z=bidh,2017,57,SMS
+Shaw Main Streets Annual Meeting,2017-02-01 00:00:00,2017-03-31 00:00:00,1200.0,1200.0,8800,10000.0,2000.0,0.0,2000.0,-800.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=775&z=bidh,2017,57,SMS
+Shaw Main Streets Annual Report,2017-02-01 00:00:00,2017-03-31 00:00:00,1500.0,1500.0,1000,2500.0,1588.8,0.0,1588.8,-88.8,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=776&z=bidh,2017,57,SMS
+Shaw Main Streets Holiday Party and Business Showcase,2016-11-01 00:00:00,2017-12-15 00:00:00,400.0,400.0,16000,16400.0,400.0,0.0,400.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=777&z=bidh,2017,57,SMS
+Shaw Main Streets Website Maintenance,2016-10-01 00:00:00,2017-09-30 00:00:00,500.0,500.0,0,500.0,951.31,0.0,951.31,-451.31,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=778&z=bidh,2017,57,SMS
+Shaw Open House,2017-05-01 00:00:00,2017-09-30 00:00:00,5000.0,5000.0,6000,11000.0,4977.5,0.0,4977.5,22.5,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=779&z=bidh,2017,57,SMS
+Art All Night in Shaw,2017-03-01 00:00:00,2017-09-30 00:00:00,10000.0,10000.0,30000,40000.0,40083.85,0.0,40083.85,-30083.85,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=780&z=bidh,2017,57,SMS
+Shaw Main Streets Back History Month Celebration,2017-02-01 00:00:00,2017-02-28 00:00:00,400.0,400.0,750,1150.0,1525.15,0.0,1525.15,-1125.15,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=782&z=bidh,2017,57,SMS
+Ribbon Cuttings,2016-11-01 00:00:00,2017-06-30 00:00:00,500.0,500.0,1500,2000.0,1306.42,0.0,1306.42,-806.42,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=783&z=bidh,2017,57,SMS
+Small Business Saturday in Shaw,2016-11-01 00:00:00,2016-11-30 00:00:00,250.0,250.0,1000,1250.0,800.0,0.0,800.0,-550.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=784&z=bidh,2017,57,SMS
+Edible DC Ads,2016-10-01 00:00:00,2017-09-30 00:00:00,6000.0,6000.0,6500,12500.0,7099.0,0.0,6969.0,-969.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=785&z=bidh,2017,57,SMS
+Creative Services for Advertising ,2016-10-01 00:00:00,2017-09-30 00:00:00,4000.0,4000.0,0,4000.0,3800.29,0.0,3800.29,199.71,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=786&z=bidh,2017,57,SMS
+Shaw Branding Program,2017-01-01 00:00:00,2017-09-30 00:00:00,30000.0,30000.0,0,30000.0,36998.44,0.0,36998.44,-6998.44,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=787&z=bidh,2017,57,SMS
+Shaw Storefront Improvements,2016-10-01 00:00:00,2017-04-30 00:00:00,10000.0,10000.0,3000,13000.0,7746.85,0.0,7746.85,2253.15,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=788&z=bidh,2017,57,SMS
+Keep Shaw Beautiful Day,2017-03-01 00:00:00,2017-04-30 00:00:00,2000.0,2000.0,1000,3000.0,1929.28,0.0,1929.28,70.72,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=789&z=bidh,2017,57,SMS
+Boulevard Banner Permits,2017-02-01 00:00:00,2017-09-30 00:00:00,8000.0,8000.0,0,8000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=790&z=bidh,2017,57,SMS
+Social media & Web Marketing Technical Assistance,2016-10-01 00:00:00,2017-09-30 00:00:00,2000.0,2000.0,0,2000.0,2145.11,0.0,2145.11,-145.11,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=791&z=bidh,2017,57,SMS
+Shaw Main Streets Business Directory and Dining Guide,2017-02-01 00:00:00,2017-04-30 00:00:00,750.0,750.0,10750,11500.0,1000.0,0.0,1000.0,-250.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=781&z=bidh,2017,57,SMS
+Great Streets Grant Application Technical Assistance,2016-10-01 00:00:00,2016-12-06 00:00:00,1000.0,1000.0,0,1000.0,1450.0,0.0,1450.0,-450.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=792&z=bidh,2017,57,SMS
+Shaw Business Buzz Breakfasts,2017-03-01 00:00:00,2017-09-30 00:00:00,1000.0,1000.0,1000,2000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=793&z=bidh,2017,57,SMS
+Shaw Business Owners Meet & Greet,2017-03-01 00:00:00,2017-09-30 00:00:00,1000.0,1000.0,1000,2000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=794&z=bidh,2017,57,SMS
+Executive Director Salary and Benefits,2016-10-01 00:00:00,2017-09-30 00:00:00,38700.0,38700.0,32500,71200.0,38700.0,0.0,38700.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=795&z=bidh,2017,57,SMS
+Audit,,,7000.0,7000.0,0,7000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=988&z=bijz,2018,78,BRMS
+Business Retention,,,4000.0,0.0,0,4000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1006&z=bijz,2018,78,BRMS
+MSARP,,,1500.0,0.0,0,1500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1005&z=bijz,2018,78,BRMS
+Volunteer Recruitment,,,1930.0,0.0,0,1930.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1004&z=bijz,2018,78,BRMS
+Light Pole Banners,,,4000.0,4000.0,0,4000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1003&z=bijz,2018,78,BRMS
+Culinary Crawl,,,2000.0,2000.0,0,2000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1002&z=bijz,2018,78,BRMS
+Training - Registration,,,1000.0,1000.0,0,1000.0,405.0,0.0,405.0,595.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=989&z=bijz,2018,78,BRMS
+Training - Travel,,,2000.0,2000.0,0,2000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=990&z=bijz,2018,78,BRMS
+Grants to Business Owners ,,,25470.0,25470.0,0,25470.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=991&z=bijz,2018,78,BRMS
+Executive Director's Salary,,,51100.0,51100.0,0,51100.0,41250.0,0.0,41250.0,9850.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=992&z=bijz,2018,78,BRMS
+Outreach to Businesses ,,,4000.0,0.0,0,4000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1000&z=bijz,2018,78,BRMS
+Garden Party,,,4000.0,0.0,0,4000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1001&z=bijz,2018,78,BRMS
+BRMS Business Map Project,,,2000.0,2000.0,0,2000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=997&z=bijz,2018,78,BRMS
+Santa Arrives on 8th Street,,,1500.0,1500.0,0,1500.0,850.0,0.0,850.0,650.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=994&z=bijz,2018,78,BRMS
+Easter Egg Hunt,,,500.0,500.0,0,500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=995&z=bijz,2018,78,BRMS
+Taste of 8th ,,,5000.0,5000.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=996&z=bijz,2018,78,BRMS
+Business Retention - SBTA,,,4000.0,0.0,0,4000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=998&z=bijz,2018,78,BRMS
+Annual Meeting,,,3000.0,0.0,0,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=999&z=bijz,2018,78,BRMS
+Fall Festival,,,22000.0,22000.0,0,22000.0,2674.85,0.0,0.0,22000.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=993&z=bijz,2018,78,BRMS
+BRMS Business Map Project,2013-10-01 00:00:00,2014-09-30 00:00:00,4500.0,0.0,0,4500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=203&z=bias,2014,10,BRMS
+Outreach to business,2013-01-01 00:00:00,2013-03-31 00:00:00,2500.0,0.0,0,2500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=215&z=bias,2014,10,BRMS
+2014 Small Business Saturdays,2013-10-01 00:00:00,2014-09-30 00:00:00,0.0,0.0,0,0.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=205&z=bias,2014,10,BRMS
+Light pole banners,2013-10-01 00:00:00,2014-09-30 00:00:00,6000.0,6000.0,0,6000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=199&z=bias,2014,10,BRMS
+ED Salary,2013-10-01 00:00:00,2014-09-30 00:00:00,37500.0,37500.0,0,37500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=198&z=bias,2014,10,BRMS
+Santa Arrives on Barracks Row,2014-11-01 00:00:00,2014-12-31 00:00:00,1000.0,1000.0,1000,2000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=209&z=bias,2014,10,BRMS
+Easter Egg Hunt,2014-03-30 00:00:00,2014-04-30 00:00:00,500.0,500.0,0,500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=206&z=bias,2014,10,BRMS
+Taste of 8th Street,2014-01-01 00:00:00,2014-05-31 00:00:00,5000.0,5000.0,3000,8000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=210&z=bias,2014,10,BRMS
+Volunteer Recruitment,2013-07-12 00:00:00,2014-09-12 00:00:00,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=208&z=bias,2014,10,BRMS
+Share Ad Campaign,2013-10-01 00:00:00,2014-09-30 00:00:00,3000.0,3000.0,2000,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=207&z=bias,2014,10,BRMS
+Signage Grant,2014-01-01 00:00:00,2014-09-30 00:00:00,20000.0,20000.0,0,20000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=211&z=bias,2014,10,BRMS
+Business Retention,2013-10-01 00:00:00,2014-09-30 00:00:00,20000.0,20000.0,0,20000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=213&z=bias,2014,10,BRMS
+2014-Business Retention - SBTA,2013-10-01 00:00:00,2014-09-30 00:00:00,17500.0,17500.0,0,17500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=201&z=bias,2014,10,BRMS
+2014 Annual Meeting,2014-01-01 00:00:00,2014-03-14 00:00:00,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=202&z=bias,2014,10,BRMS
+Business Inventory and Tracking,2013-10-01 00:00:00,2014-09-30 00:00:00,5000.0,5000.0,3500,8500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=214&z=bias,2014,10,BRMS
+Needs Assessments,2013-10-01 00:00:00,2014-09-30 00:00:00,3000.0,0.0,0,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=212&z=bias,2014,10,BRMS
+Barracks Row Culinary Education Crawl,2013-10-01 00:00:00,2014-09-30 00:00:00,2000.0,2000.0,0,2000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=204&z=bias,2014,10,BRMS
+2014 Barracks Row Fall Festival,2014-05-01 00:00:00,2014-10-31 00:00:00,20000.0,20000.0,20000,40000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=200&z=bias,2014,10,BRMS
+Annual Report,2014-12-01 00:00:00,2014-12-31 00:00:00,500.0,500.0,0,500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=185&z=bh7m,2014,16,CHMS
+Main Street Website,2013-10-01 00:00:00,2014-09-30 00:00:00,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=181&z=bh7m,2014,16,CHMS
+Back to School Event,2014-08-01 00:00:00,2014-09-30 00:00:00,6000.0,6000.0,0,6000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=179&z=bh7m,2014,16,CHMS
+MS Conference/Audit/Accounting,2013-10-01 00:00:00,2014-09-30 00:00:00,7850.0,7850.0,0,7850.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=184&z=bh7m,2014,16,CHMS
+Business Promotional Street Fair,2014-01-01 00:00:00,2014-09-30 00:00:00,8000.0,8000.0,0,8000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=178&z=bh7m,2014,16,CHMS
+Storefront Improvement,2013-10-01 00:00:00,2014-09-30 00:00:00,60000.0,60000.0,0,60000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=176&z=bh7m,2014,16,CHMS
+Technical Assistance,2014-01-01 00:00:00,2014-09-30 00:00:00,23000.0,23000.0,0,23000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=177&z=bh7m,2014,16,CHMS
+Newsletter,2013-12-01 00:00:00,2014-09-30 00:00:00,3000.0,3000.0,0,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=180&z=bh7m,2014,16,CHMS
+Cross Collaborative Promotion:Advertising,2013-12-01 00:00:00,2014-09-30 00:00:00,12000.0,12000.0,0,12000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=182&z=bh7m,2014,16,CHMS
+Operate Effective Main Street,2013-10-01 00:00:00,2014-09-30 00:00:00,37500.0,37500.0,0,37500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=183&z=bh7m,2014,16,CHMS
+Santa Arrives on 8th Street,2015-11-01 00:00:00,2015-12-31 00:00:00,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=423&z=biaw,2016,40,BRMS
+ED Salary,2015-10-01 00:00:00,2016-09-30 00:00:00,37500.0,37500.0,0,37500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=421&z=biaw,2016,40,BRMS
+Outreach to Business,2016-01-01 00:00:00,2016-03-31 00:00:00,2500.0,2500.0,0,2500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=411&z=biaw,2016,40,BRMS
+Light Pole Banners,2015-10-01 00:00:00,2016-09-30 00:00:00,4000.0,4000.0,0,4000.0,275.0,0.0,275.0,3725.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=422&z=biaw,2016,40,BRMS
+Taste of 8th,2016-01-01 00:00:00,2016-05-31 00:00:00,5000.0,5000.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=419&z=biaw,2016,40,BRMS
+Annual Meeting,2016-01-01 00:00:00,2016-03-31 00:00:00,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=413&z=biaw,2016,40,BRMS
+Business Retention - SBTA,2015-10-01 00:00:00,2016-09-30 00:00:00,17500.0,17500.0,0,17500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=415&z=biaw,2016,40,BRMS
+BRMS Business Map Project,2015-10-01 00:00:00,2016-09-30 00:00:00,4500.0,4500.0,0,4500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=414&z=biaw,2016,40,BRMS
+Business Retention,2015-10-01 00:00:00,2016-09-30 00:00:00,20000.0,20000.0,0,20000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=416&z=biaw,2016,40,BRMS
+Share Ad Campaign,2015-10-01 00:00:00,2016-09-30 00:00:00,3000.0,3000.0,0,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=417&z=biaw,2016,40,BRMS
+Volunteer Recruitment,2015-10-01 00:00:00,2016-09-30 00:00:00,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=418&z=biaw,2016,40,BRMS
+Easter Egg Hunt,2016-03-30 00:00:00,2016-04-30 00:00:00,500.0,500.0,0,500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=420&z=biaw,2016,40,BRMS
+Signage Grant,2015-10-01 00:00:00,2016-09-30 00:00:00,27500.0,27500.0,0,27500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=412&z=biaw,2016,40,BRMS
+Website and Mobile App,2016-10-01 00:00:00,2017-09-30 00:00:00,940.0,940.0,0,940.0,940.0,0.0,940.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=604&z=bibu,2017,46,TMS
+Membership Outreach,2016-12-01 00:00:00,2017-09-30 00:00:00,6500.0,6500.0,2750,9250.0,1841.89,0.0,1841.89,4658.11,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=602&z=bibu,2017,46,TMS
+Retail Attraction Strategy,2017-01-01 00:00:00,2017-09-30 00:00:00,3000.0,3000.0,0,3000.0,3000.0,0.0,3000.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=653&z=bibu,2017,46,TMS
+Branding and Marketing Strategy Development,2016-12-01 00:00:00,2017-03-31 00:00:00,3000.0,3000.0,0,3000.0,4000.0,0.0,4000.0,-1000.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=605&z=bibu,2017,46,TMS
+Monthly Networking and Business Issues Meetings,2016-10-01 00:00:00,2017-09-30 00:00:00,300.0,300.0,300,600.0,25.0,0.0,25.0,275.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=617&z=bibu,2017,46,TMS
+Tree Box Maintenance,2016-10-01 00:00:00,2017-09-30 00:00:00,450.0,450.0,400,850.0,50.95,0.0,50.95,399.05,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=611&z=bibu,2017,46,TMS
+Executive Director Salary & Benefits,2016-10-01 00:00:00,2017-09-30 00:00:00,38700.0,38700.0,56100,94800.0,46800.32,0.0,46800.32,-8100.32,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=600&z=bibu,2017,46,TMS
+Storefront Improvement Projects,2016-12-01 00:00:00,2017-09-30 00:00:00,25800.0,25800.0,0,25800.0,23993.78,0.0,23993.78,1806.22,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=613&z=bibu,2017,46,TMS
+Accounting & Financial Services - Annual Audit,2017-01-01 00:00:00,2017-03-31 00:00:00,7000.0,7000.0,0,7000.0,9290.25,0.0,7000.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=601&z=bibu,2017,46,TMS
+Annual Meeting,2017-02-01 00:00:00,2017-04-30 00:00:00,265.0,265.0,6638,6903.0,265.39,0.0,265.39,-0.38999999999999,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=603&z=bibu,2017,46,TMS
+Small Business Saturday,2016-11-01 00:00:00,2016-11-30 00:00:00,113.0,113.0,0,113.0,112.27,0.0,112.27,0.73,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=607&z=bibu,2017,46,TMS
+Tenley WinterFest,2016-10-01 00:00:00,2016-12-31 00:00:00,4045.0,4045.0,3020,7065.0,3712.31,0.0,3712.31,332.69,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=606&z=bibu,2017,46,TMS
+Wisconsin Avenue Beautification - Earth Day,2017-02-01 00:00:00,2017-05-15 00:00:00,1050.0,1050.0,600,1650.0,1045.93,0.0,1045.93,4.07,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=608&z=bibu,2017,46,TMS
+Make Music Day - June 21,2017-02-01 00:00:00,2017-07-15 00:00:00,8433.0,8433.0,3232,11665.0,8400.58,0.0,8400.58,32.42,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=609&z=bibu,2017,46,TMS
+Art All Night - September 24,2017-05-01 00:00:00,2017-09-30 00:00:00,22075.0,22075.0,5870,27945.0,36384.47,0.0,36342.61,-14267.61,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=610&z=bibu,2017,46,TMS
+Tenleytown Main Street Seasonal Banners,2016-10-01 00:00:00,2017-09-30 00:00:00,5100.0,5100.0,0,5100.0,4543.95,0.0,4543.95,556.05,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=612&z=bibu,2017,46,TMS
+Public Space Design Workshops,2017-01-01 00:00:00,2017-09-30 00:00:00,175.0,175.0,1000,1175.0,297.02,0.0,297.02,-122.02,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=614&z=bibu,2017,46,TMS
+Business Database Maintenance,2016-10-01 00:00:00,2017-09-30 00:00:00,2270.0,2270.0,0,2270.0,2270.0,0.0,2270.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=615&z=bibu,2017,46,TMS
+Technical Assistance to Local Businesses,2016-10-01 00:00:00,2017-09-30 00:00:00,9000.0,9000.0,0,9000.0,9000.0,0.0,9000.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=616&z=bibu,2017,46,TMS
+Ribbon Cuttings for New Businesses and Business Milestones,2016-10-01 00:00:00,2017-09-30 00:00:00,750.0,750.0,1700,2450.0,750.12,0.0,750.12,-0.12,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=652&z=bibu,2017,46,TMS
+Main Street Now Conference,2017-04-15 00:00:00,2017-05-31 00:00:00,395.0,395.0,0,395.0,395.0,0.0,395.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=619&z=bibu,2017,46,TMS
+Board Training and Development,2016-10-01 00:00:00,2017-09-30 00:00:00,2605.0,2605.0,1000,3605.0,3379.0,0.0,3379.0,-774.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=618&z=bibu,2017,46,TMS
+Certified Audit - Accounting Services,2016-10-01 00:00:00,2016-09-30 00:00:00,7000.0,7000.0,0,7000.0,7000.0,0.0,7000.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=577&z=bicx,2017,54,HSMS
+Training - Travel,2016-10-01 00:00:00,2016-09-30 00:00:00,2000.0,2000.0,0,2000.0,1782.05,0.0,1767.85,232.15,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=579&z=bicx,2017,54,HSMS
+Training - Registration,2016-10-01 00:00:00,2016-09-30 00:00:00,1000.0,1000.0,0,1000.0,1000.0,0.0,1000.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=578&z=bicx,2017,54,HSMS
+H Street Festival,2017-08-01 00:00:00,2016-09-30 00:00:00,20000.0,20000.0,100000,120000.0,20336.64,0.0,20336.64,-336.64,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=725&z=bicx,2017,54,HSMS
+Storefront Inprovement,2017-03-01 00:00:00,2017-09-30 00:00:00,16250.0,16250.0,0,16250.0,16510.3,0.0,16510.3,-260.3,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=723&z=bicx,2017,54,HSMS
+Technical Assistance,2016-10-01 00:00:00,2017-09-30 00:00:00,16250.0,16250.0,100000,116250.0,7250.0,0.0,7250.0,9000.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=724&z=bicx,2017,54,HSMS
+Art All Night,,,16666.0,16666.0,10000,26666.0,38166.0,0.0,38166.0,-21500.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=809&z=bicx,2017,54,HSMS
+Marketing Advertising,2016-10-01 00:00:00,2017-09-30 00:00:00,27800.0,27800.0,35000,62800.0,27421.01,0.0,27421.01,378.99,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=580&z=bicx,2017,54,HSMS
+ED Salary,2016-10-01 00:00:00,2017-09-30 00:00:00,38700.0,38700.0,58800,97500.0,38700.0,0.0,38700.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=581&z=bicx,2017,54,HSMS
+Holiday Party and Business Showcase,2015-12-07 00:00:00,2015-12-07 00:00:00,0.0,0.0,0,0.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=483&z=biab,2016,36,SMS
+Newsletter Printing & e-Newsletter Production,2015-10-01 00:00:00,2016-09-30 00:00:00,13000.0,13000.0,5000,18000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=475&z=biab,2016,36,SMS
+Volunteer Recruitment & Recognition Happy Hour,2015-10-01 00:00:00,2016-09-30 00:00:00,350.0,350.0,0,350.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=477&z=biab,2016,36,SMS
+Annual Gala,2016-06-01 00:00:00,2016-06-01 00:00:00,500.0,500.0,50000,50500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=484&z=biab,2016,36,SMS
+Quarterly SMS Happy Hour,2015-10-01 00:00:00,2016-09-30 00:00:00,250.0,250.0,500,750.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=485&z=biab,2016,36,SMS
+Annual Meeting,2016-03-23 00:00:00,2016-03-23 00:00:00,1200.0,1200.0,4300,5500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=486&z=biab,2016,36,SMS
+Annual Report,2016-03-01 00:00:00,2016-03-23 00:00:00,1250.0,1250.0,1000,2250.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=487&z=biab,2016,36,SMS
+Website Maintenance,2015-10-01 00:00:00,2016-09-30 00:00:00,500.0,500.0,0,500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=488&z=biab,2016,36,SMS
+SMS Open House,2016-06-18 00:00:00,2016-06-18 00:00:00,4000.0,4000.0,0,4000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=489&z=biab,2016,36,SMS
+"""A Sip of Shaw""",2016-09-10 00:00:00,2016-09-10 00:00:00,1000.0,1000.0,1000,2000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=490&z=biab,2016,36,SMS
+Art All Night DC,2016-09-24 00:00:00,2016-09-24 00:00:00,6000.0,6000.0,37500,43500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=492&z=biab,2016,36,SMS
+"Bar, Fitness, Fashion, Art & Design Crawls",2015-10-01 00:00:00,2016-09-30 00:00:00,300.0,300.0,0,300.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=493&z=biab,2016,36,SMS
+Howard University Promotions,2015-10-01 00:00:00,2016-09-30 00:00:00,3000.0,3000.0,3000,6000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=494&z=biab,2016,36,SMS
+Update SMS Business Directory & Dining Guide,2016-03-01 00:00:00,2016-06-30 00:00:00,4000.0,4000.0,0,4000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=495&z=biab,2016,36,SMS
+Black History Month Event,2016-02-13 00:00:00,2016-02-13 00:00:00,250.0,250.0,250,500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=496&z=biab,2016,36,SMS
+Banners,2016-03-01 00:00:00,2016-09-30 00:00:00,8000.0,8000.0,0,8000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=499&z=biab,2016,36,SMS
+Business Owners Meet & Greet,2015-10-01 00:00:00,2016-09-30 00:00:00,500.0,500.0,0,500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=501&z=biab,2016,36,SMS
+Executive Director Salary,2015-10-01 00:00:00,2016-09-30 00:00:00,37500.0,37500.0,32500,70000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=476&z=biab,2016,36,SMS
+Holiday Party & Business Showcase,2015-12-07 00:00:00,2015-12-07 00:00:00,400.0,400.0,30100,30500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=478&z=biab,2016,36,SMS
+Collaborative Cross Promotions,2015-10-01 00:00:00,2016-09-30 00:00:00,33000.0,33000.0,32840,65840.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=491&z=biab,2016,36,SMS
+Ribbon Cuttings,2015-10-01 00:00:00,2016-09-30 00:00:00,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=497&z=biab,2016,36,SMS
+Storefront Improvements,2015-10-01 00:00:00,2016-09-30 00:00:00,5000.0,5000.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=498&z=biab,2016,36,SMS
+"Social Media & Web Marketing, SnapChat, Geolocation",2016-03-01 00:00:00,2016-09-30 00:00:00,4000.0,4000.0,500,4500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=500&z=biab,2016,36,SMS
+Operate Effective Main Street,2014-10-01 00:00:00,2015-09-30 00:00:00,37500.0,37500.0,0,37500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=316&z=bh7u,2015,18,CHMS
+Technical Assistance Mini Grant,2015-01-01 00:00:00,2015-09-30 00:00:00,10000.0,10000.0,0,10000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=322&z=bh7u,2015,18,CHMS
+Art All Night,2015-09-26 00:00:00,2015-09-27 00:00:00,8000.0,8000.0,27000,35000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=319&z=bh7u,2015,18,CHMS
+Back to School,2015-08-01 00:00:00,2015-08-31 00:00:00,6000.0,6000.0,0,6000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=321&z=bh7u,2015,18,CHMS
+Website Updates,2014-10-01 00:00:00,2015-09-30 00:00:00,2000.0,2000.0,0,2000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=323&z=bh7u,2015,18,CHMS
+Storefront Improvement,2014-10-01 00:00:00,2015-09-30 00:00:00,55000.0,55000.0,0,55000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=317&z=bh7u,2015,18,CHMS
+MS Conference Registration/National Trust,2015-01-01 00:00:00,2015-04-02 00:00:00,750.0,750.0,0,750.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=320&z=bh7u,2015,18,CHMS
+Audit,2014-10-01 00:00:00,2015-09-30 00:00:00,5750.0,5750.0,0,5750.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=318&z=bh7u,2015,18,CHMS
+Year End Fundraising Campaign,2014-12-01 00:00:00,2014-12-31 00:00:00,0.0,0.0,500,500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=325&z=bh8p,2015,25,HDCMS
+Art All Night,2015-09-26 00:00:00,2015-09-26 00:00:00,8000.0,8000.0,50000,58000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=339&z=bh8p,2015,25,HDCMS
+Pet Costume Contest,2014-10-31 00:00:00,2014-10-31 00:00:00,1000.0,0.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=329&z=bh8p,2015,25,HDCMS
+Photos with Santa Claus,2014-12-03 00:00:00,2015-01-06 00:00:00,1000.0,0.0,1000,2000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=330&z=bh8p,2015,25,HDCMS
+Annual Meeting Spring Fling,2015-02-02 00:00:00,2015-03-31 00:00:00,0.0,0.0,10000,10000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=331&z=bh8p,2015,25,HDCMS
+Garden Party,2015-05-01 00:00:00,2015-05-31 00:00:00,0.0,0.0,5000,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=332&z=bh8p,2015,25,HDCMS
+Quarterly Newsletter,2014-10-01 00:00:00,2015-09-30 00:00:00,16000.0,16000.0,0,16000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=326&z=bh8p,2015,25,HDCMS
+Website update,2015-01-01 00:00:00,2015-02-28 00:00:00,3000.0,3000.0,0,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=327&z=bh8p,2015,25,HDCMS
+ED Salary,2014-10-01 00:00:00,2015-09-30 00:00:00,37500.0,37500.0,70000,107500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=324&z=bh8p,2015,25,HDCMS
+Audit,2015-01-01 00:00:00,2015-02-28 00:00:00,5000.0,5000.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=337&z=bh8p,2015,25,HDCMS
+First Friday Brochure and Website,2014-12-03 00:00:00,2015-01-30 00:00:00,6000.0,6000.0,0,6000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=335&z=bh8p,2015,25,HDCMS
+17th Street Festival,2015-09-12 00:00:00,2015-09-12 00:00:00,30200.0,30200.0,15000,45200.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=334&z=bh8p,2015,25,HDCMS
+Annual Report,2015-03-01 00:00:00,2015-04-30 00:00:00,500.0,500.0,0,500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=336&z=bh8p,2015,25,HDCMS
+Taste of Dupont`,2015-04-01 00:00:00,2015-04-30 00:00:00,5000.0,5000.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=333&z=bh8p,2015,25,HDCMS
+Print Adverting,2014-12-01 00:00:00,2015-09-30 00:00:00,5000.0,5000.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=338&z=bh8p,2015,25,HDCMS
+Sign-Awning Grant,2014-12-03 00:00:00,2015-09-01 00:00:00,7000.0,7000.0,2000,9000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=328&z=bh8p,2015,25,HDCMS
+Banner Installation,2014-10-01 00:00:00,2014-12-31 00:00:00,2400.0,2400.0,12000,14400.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=390&z=bh8p,2015,25,HDCMS
+NMSC conference,2014-10-01 00:00:00,2015-09-30 00:00:00,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=393&z=bh8p,2015,25,HDCMS
+2012 Blossom Bake & Brew,2012-01-01 00:00:00,2012-06-30 00:00:00,6500.0,6500.0,0,6500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=120&z=bh9b,2013,,HSMS
+2012 H Street Festival,2012-06-01 00:00:00,2012-10-01 00:00:00,15000.0,15000.0,70000,85000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=121&z=bh9b,2013,,HSMS
+2012 Retail Summit,2012-07-01 00:00:00,2012-12-31 00:00:00,16000.0,16000.0,0,16000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=118&z=bh9b,2013,,HSMS
+2012 & 2013 Operate Effective Main Streets Program,2011-10-01 00:00:00,2013-09-30 00:00:00,60000.0,60000.0,60000,120000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=16&z=bh9b,2013,,HSMS
+2012 WMATA promotion,2012-10-01 00:00:00,2012-12-31 00:00:00,1000.0,0.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=116&z=bh9b,2013,,HSMS
+2012 Storefront Improvement Program,2011-10-01 00:00:00,2012-09-30 00:00:00,32585.0,32585.0,0,32585.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=123&z=bh9b,2013,,HSMS
+2012 Business Inventory & Tracking,2011-10-01 00:00:00,2012-09-30 00:00:00,1690.0,1690.0,0,1690.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=124&z=bh9b,2013,,HSMS
+2013 H Street festival,2013-06-01 00:00:00,2013-09-30 00:00:00,15000.0,15000.0,70000,85000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=122&z=bh9b,2013,,HSMS
+2012 and 2013 newspaper ads,2011-10-01 00:00:00,2013-09-30 00:00:00,20025.0,20025.0,0,20025.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=117&z=bh9b,2013,,HSMS
+2012 & 2013 Maintain program website ,2011-10-01 00:00:00,2012-09-30 00:00:00,3000.0,3000.0,0,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=125&z=bh9b,2013,,HSMS
+2012 & 2013 TA/marketing,2011-10-01 00:00:00,2013-09-30 00:00:00,30150.0,30150.0,0,30150.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=119&z=bh9b,2013,,HSMS
+Ward 7 Business Social Network (W7BIZ.com),2012-10-01 00:00:00,2012-12-31 00:00:00,3000.0,3000.0,25000,28000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=25&z=biac,2013,8,DHMS
+Annual Event - TBD,2013-07-01 00:00:00,2013-09-30 00:00:00,2500.0,2500.0,0,2500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=28&z=biac,2013,8,DHMS
+Fund Raising,2012-10-01 00:00:00,2013-09-30 00:00:00,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=35&z=biac,2013,8,DHMS
+DHMS Small Business Week,2013-09-02 00:00:00,2013-09-30 00:00:00,2145.0,2145.0,0,2145.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=33&z=biac,2013,8,DHMS
+2013 I Am DC Bus Poster Campaign,2012-12-03 00:00:00,2013-01-31 00:00:00,800.0,800.0,0,800.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=29&z=biac,2013,8,DHMS
+ Annual  Report,2012-12-03 00:00:00,2013-01-31 00:00:00,500.0,500.0,0,500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=34&z=biac,2013,8,DHMS
+Ward 7 Business Directory,2012-10-01 00:00:00,2013-12-31 00:00:00,2500.0,2500.0,6450,8950.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=24&z=biac,2013,8,DHMS
+Create pitch package,2012-10-01 00:00:00,2013-09-30 00:00:00,500.0,500.0,0,500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=30&z=biac,2013,8,DHMS
+ED salary,2012-10-01 00:00:00,2013-09-30 00:00:00,60000.0,60000.0,30000,90000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=139&z=biac,2013,8,DHMS
+Street Banners,2013-05-01 00:00:00,2013-07-31 00:00:00,5000.0,5000.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=22&z=biac,2013,8,DHMS
+DHMS building sign,2013-01-31 00:00:00,2013-05-31 00:00:00,2500.0,2500.0,2500,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=21&z=biac,2013,8,DHMS
+DHMS Newsletter,2012-10-01 00:00:00,2013-09-30 00:00:00,1875.0,1875.0,0,1875.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=31&z=biac,2013,8,DHMS
+Storefront Improvement Plan 2012,2012-03-04 00:00:00,2012-11-30 00:00:00,40000.0,40000.0,0,40000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=3&z=biac,2013,8,DHMS
+Promotional local Newspaper Ads,2012-11-01 00:00:00,2013-06-28 00:00:00,6442.0,6442.0,0,6442.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=27&z=biac,2013,8,DHMS
+Storefront Improvement Program 2013,2013-03-04 00:00:00,2013-06-28 00:00:00,50000.0,50000.0,0,50000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=20&z=biac,2013,8,DHMS
+Marketing Consultations,2012-11-01 00:00:00,2013-01-31 00:00:00,7200.0,7200.0,0,7200.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=26&z=biac,2013,8,DHMS
+Webpages for DHMS merchants,2012-10-01 00:00:00,2012-12-31 00:00:00,5575.0,5575.0,0,5575.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=32&z=biac,2013,8,DHMS
+Business Needs Assessments,2013-02-04 00:00:00,2013-04-30 00:00:00,5580.0,5580.0,0,5580.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=23&z=biac,2013,8,DHMS
+Annual Report,2017-05-01 00:00:00,2017-08-31 00:00:00,500.0,500.0,2000,2500.0,249.57,0.0,249.57,250.43,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=685&z=bibn,2017,45,HDCMS
+FY16 Audit,2017-05-03 00:00:00,2017-06-30 00:00:00,5000.0,5000.0,0,5000.0,4500.0,0.0,4500.0,500.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=686&z=bibn,2017,45,HDCMS
+Quarterly newsletter,2016-10-01 00:00:00,2017-09-15 00:00:00,16000.0,16000.0,20000,36000.0,16000.0,0.0,16000.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=687&z=bibn,2017,45,HDCMS
+National MS Conference,2017-04-01 00:00:00,2017-05-31 00:00:00,800.0,800.0,0,800.0,1049.8,0.0,1049.8,-249.8,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=688&z=bibn,2017,45,HDCMS
+Website redesign/refresh,2017-01-02 00:00:00,2017-05-31 00:00:00,3000.0,3000.0,0,3000.0,3000.0,0.0,3000.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=689&z=bibn,2017,45,HDCMS
+Print advertising,2016-10-01 00:00:00,2017-09-15 00:00:00,6000.0,6000.0,0,6000.0,8940.25,0.0,8940.25,-2940.25,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=690&z=bibn,2017,45,HDCMS
+Dupont Tree Lighting,2016-12-01 00:00:00,2016-12-01 00:00:00,1000.0,1000.0,1500,2500.0,300.0,0.0,300.0,700.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=691&z=bibn,2017,45,HDCMS
+Art Gallery Brochure,2017-01-02 00:00:00,2017-03-31 00:00:00,6000.0,6000.0,0,6000.0,6200.0,0.0,6200.0,-200.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=696&z=bibn,2017,45,HDCMS
+Spring Business Expo,2017-03-01 00:00:00,2017-03-31 00:00:00,2700.0,2700.0,12000,14700.0,2324.0,0.0,2324.0,376.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=692&z=bibn,2017,45,HDCMS
+Taste of Dupont,2017-04-01 00:00:00,2017-04-30 00:00:00,5000.0,5000.0,25000,30000.0,5629.0,0.0,5629.0,-629.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=693&z=bibn,2017,45,HDCMS
+17th Street Festival,2017-08-26 00:00:00,2017-08-26 00:00:00,32000.0,32000.0,30000,62000.0,33264.38,0.0,33264.38,-1264.38,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=694&z=bibn,2017,45,HDCMS
+Staff Salary,2016-10-01 00:00:00,2017-09-30 00:00:00,38700.0,38700.0,67500,106200.0,95500.0,0.0,38700.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=703&z=bibn,2017,45,HDCMS
+Flowerbox guidelines,,,500.0,0.0,2000,2500.0,249.0,0.0,249.0,-249.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=810&z=bibn,2017,45,HDCMS
+Art All Night,2017-09-23 00:00:00,2017-09-23 00:00:00,23100.0,23100.0,16000,39100.0,40760.0,0.0,34760.0,-11660.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=695&z=bibn,2017,45,HDCMS
+Sign awning grant,,,3000.0,3000.0,0,3000.0,3000.0,0.0,3000.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=911&z=bibn,2017,45,HDCMS
+W7BP Small Business Storefront Improvements,2016-03-01 00:00:00,2016-04-30 00:00:00,30000.0,30000.0,0,30000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=455&z=bh9h,2016,31,DHMS
+Continuation of Banner Installation,2016-03-01 00:00:00,2016-08-01 00:00:00,1705.0,1705.0,0,1705.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=456&z=bh9h,2016,31,DHMS
+Ward 7 Small Business Intake,2016-02-01 00:00:00,2016-08-12 00:00:00,5000.0,5000.0,45000,50000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=457&z=bh9h,2016,31,DHMS
+Annual Event - Festial,2016-01-20 00:00:00,2016-09-24 00:00:00,25000.0,25000.0,10000,35000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=459&z=bh9h,2016,31,DHMS
+Volunteer Recruitment,2016-01-20 00:00:00,2016-09-30 00:00:00,500.0,500.0,0,500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=462&z=bh9h,2016,31,DHMS
+Audit,2016-04-04 00:00:00,2016-04-15 00:00:00,6500.0,6500.0,6500,13000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=458&z=bh9h,2016,31,DHMS
+ED Professional Development,2015-10-01 00:00:00,2016-09-30 00:00:00,2000.0,2000.0,0,2000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=473&z=bh9h,2016,31,DHMS
+Board development,2016-01-20 00:00:00,2016-09-30 00:00:00,2500.0,2500.0,0,2500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=460&z=bh9h,2016,31,DHMS
+ED salary,2015-10-01 00:00:00,2016-09-30 00:00:00,37500.0,37500.0,35000,72500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=474&z=bh9h,2016,31,DHMS
+W7BP Website,2016-01-20 00:00:00,2016-09-30 00:00:00,2000.0,2000.0,0,2000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=461&z=bh9h,2016,31,DHMS
+"Seasonal ads, newsletter, project printing & graphics",2016-01-20 00:00:00,2016-09-30 00:00:00,8100.0,8100.0,0,8100.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=463&z=bh9h,2016,31,DHMS
+Board Training,2016-01-31 00:00:00,2016-09-30 00:00:00,6000.0,6000.0,0,6000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=573&z=bh9u,2016,33,VNMS
+National Main Street Conference,2016-05-23 00:00:00,2016-05-27 00:00:00,3000.0,3000.0,330,3330.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=572&z=bh9u,2016,33,VNMS
+Fundraising Board Training and planning,2016-06-01 00:00:00,2016-09-30 00:00:00,11500.0,11500.0,0,11500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=570&z=bh9u,2016,33,VNMS
+Jazz@VN,2016-04-30 00:00:00,2016-09-30 00:00:00,3250.0,3250.0,0,3250.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=550&z=bh9u,2016,33,VNMS
+NW Arts Conference,2016-03-25 00:00:00,2016-05-01 00:00:00,200.0,200.0,300,500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=552&z=bh9u,2016,33,VNMS
+Van Ness Farmers Market,2016-04-30 00:00:00,2016-10-31 00:00:00,4950.0,0.0,0,4950.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=553&z=bh9u,2016,33,VNMS
+Open House: New Buildings in Van Ness Tour,2016-05-02 00:00:00,2016-07-29 00:00:00,2100.0,2100.0,500,2600.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=554&z=bh9u,2016,33,VNMS
+Art All Night,2016-03-31 00:00:00,2016-09-30 00:00:00,15000.0,15000.0,0,15000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=551&z=bh9u,2016,33,VNMS
+Grants andTechnical Design Assistance to Local Businesses ,2016-05-01 00:00:00,2016-09-30 00:00:00,30000.0,30000.0,6500,36500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=555&z=bh9u,2016,33,VNMS
+Administration,2016-01-11 00:00:00,2016-09-30 00:00:00,80000.0,80000.0,13750,93750.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=569&z=bh9u,2016,33,VNMS
+Restaurnt Technical Assistance,2016-05-01 00:00:00,2016-09-30 00:00:00,6000.0,6000.0,0,6000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=568&z=bh9u,2016,33,VNMS
+Business to Business Breakfasts ,2016-06-01 00:00:00,2016-09-30 00:00:00,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=567&z=bh9u,2016,33,VNMS
+SIP ,2016-05-01 00:00:00,2016-09-30 00:00:00,15000.0,15000.0,0,15000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=566&z=bh9u,2016,33,VNMS
+Real Estate Survey,2016-03-15 00:00:00,2016-06-30 00:00:00,10000.0,10000.0,0,10000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=556&z=bh9u,2016,33,VNMS
+Strategic/Implementation Plan,2016-03-31 00:00:00,2016-09-30 00:00:00,5500.0,5500.0,0,5500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=571&z=bh9u,2016,33,VNMS
+Retail Study/Survey ,2016-03-15 00:00:00,2016-06-30 00:00:00,7500.0,7500.0,0,7500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=565&z=bh9u,2016,33,VNMS
+Board Development,,,1500.0,0.0,500,2000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=884&z=bihm,2018,73,FORIA
+ED Salary,,,51000.0,51000.0,38900,89900.0,17806.48,0.0,17806.48,33193.52,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=877&z=bihm,2018,73,FORIA
+Audit,,,7000.0,7000.0,0,7000.0,6000.0,0.0,6000.0,1000.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=881&z=bihm,2018,73,FORIA
+NMS Membership,,,350.0,0.0,0,350.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=883&z=bihm,2018,73,FORIA
+NMS Conference,,,3000.0,3000.0,3500,6500.0,405.0,0.0,405.0,2595.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=882&z=bihm,2018,73,FORIA
+Storefront Improvement,,,24000.0,24000.0,192325,216325.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=900&z=bihm,2018,73,FORIA
+Vacant Property Scrim,,,2000.0,2000.0,0,2000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=902&z=bihm,2018,73,FORIA
+Advertising,,,6500.0,6500.0,1000,7500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=899&z=bihm,2018,73,FORIA
+Small Business Saturday,,,200.0,200.0,0,200.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=897&z=bihm,2018,73,FORIA
+Porch Fest,,,2000.0,2000.0,2000,4000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=898&z=bihm,2018,73,FORIA
+Corridor Promotions,,,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=895&z=bihm,2018,73,FORIA
+Holiday Market,,,5000.0,5000.0,7500,12500.0,5000.0,0.0,5000.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=896&z=bihm,2018,73,FORIA
+Fall Fest Week,,,4000.0,4000.0,8000,12000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=886&z=bihm,2018,73,FORIA
+Annual Meeting,,,1000.0,1000.0,1500,2500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=885&z=bihm,2018,73,FORIA
+Group TA,,,9000.0,9000.0,3760,12760.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=880&z=bihm,2018,73,FORIA
+Individual TA,,,14050.0,14050.0,25550,39600.0,4000.0,0.0,4000.0,10050.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=879&z=bihm,2018,73,FORIA
+RIA Radio,,,13800.0,13800.0,15000,28800.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=878&z=bihm,2018,73,FORIA
+Holiday Decorations,,,1367.33,1367.33,0,1367.33,1367.33,0.0,1367.33,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=901&z=bihm,2018,73,FORIA
+Mobile App,,,3700.0,3700.0,500,4200.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1085&z=bihm,2018,73,FORIA
+Executive Director Salary,,,51100.0,51100.0,20900,72000.0,17500.02,0.0,17500.02,33599.98,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1008&z=bies,2018,64,SMS
+Business Buzz Breakfasts,,,1000.0,1000.0,2000,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1011&z=bies,2018,64,SMS
+Great Streets Grant Application Technical Assistance,,,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1010&z=bies,2018,64,SMS
+Social Media and Web Marketing Technical Assistance,,,4500.0,4500.0,0,4500.0,3750.0,0.0,3750.0,750.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1009&z=bies,2018,64,SMS
+Business Owner Meet & Greets,,,1000.0,1000.0,2000,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1012&z=bies,2018,64,SMS
+Storefront and Interior Improvements,,,15000.0,15000.0,0,15000.0,7500.0,0.0,7500.0,7500.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1013&z=bies,2018,64,SMS
+Keep Shaw Beautiful Day,,,500.0,500.0,500,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1014&z=bies,2018,64,SMS
+"""A Taste of Shaw"" Annual Gala",,,500.0,500.0,33500,34000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1015&z=bies,2018,64,SMS
+Annual Meeting,,,1200.0,1200.0,5050,6250.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1016&z=bies,2018,64,SMS
+Website Upgrades and Maintenance,,,1500.0,1500.0,0,1500.0,75.34,0.0,75.34,1424.66,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1018&z=bies,2018,64,SMS
+Annual Report,,,2000.0,2000.0,1000,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1017&z=bies,2018,64,SMS
+Shaw Open House,,,10500.0,10500.0,1000,11500.0,10159.0,0.0,10159.0,341.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1029&z=bies,2018,64,SMS
+Art All Night Shaw,,,10000.0,10000.0,30000,40000.0,680.0,0.0,330.0,9670.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1030&z=bies,2018,64,SMS
+Update Business Directory and Dining Guide,,,6500.0,6500.0,6500,13000.0,2065.0,0.0,2065.0,4435.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1031&z=bies,2018,64,SMS
+Black History Month,,,400.0,400.0,750,1150.0,7.98,0.0,7.98,392.02,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1032&z=bies,2018,64,SMS
+Ribbon Cuttings,,,500.0,500.0,500,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1033&z=bies,2018,64,SMS
+Small Business Saturday,,,3500.0,3500.0,500,4000.0,2947.77,0.0,2947.77,552.23,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1034&z=bies,2018,64,SMS
+Mid City DC Ads,,,14000.0,14000.0,8130,22130.0,4550.0,0.0,3412.5,10587.5,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1035&z=bies,2018,64,SMS
+Where DC Ads,,,9000.0,9000.0,9000,18000.0,4500.0,0.0,4500.0,4500.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1036&z=bies,2018,64,SMS
+Edible DC Ads,,,7300.0,7300.0,6000,13300.0,3677.5,0.0,3677.5,3622.5,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1037&z=bies,2018,64,SMS
+Newsletter Production and Printing,,,5000.0,5000.0,10000,15000.0,580.0,0.0,580.0,4420.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1038&z=bies,2018,64,SMS
+Executive Director Salary,,,51100.0,51100.0,28900,80000.0,26673.5,0.0,21538.44,29561.56,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=942&z=biix,2018,75,DB CH&MP
+Conference Travel & Accommodations,,,2000.0,2000.0,0,2000.0,458.8,0.0,458.8,1541.2,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=948&z=biix,2018,75,DB CH&MP
+Continuing Education,,,1000.0,1000.0,0,1000.0,405.0,0.0,405.0,595.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=947&z=biix,2018,75,DB CH&MP
+Volunteer Retention,,,2430.0,0.0,0,2430.0,250.0,0.0,250.0,-250.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=958&z=biix,2018,75,DB CH&MP
+Branding/Marketing/Web Development,,,10000.0,10000.0,0,10000.0,2957.5,2957.5,2957.5,7042.5,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=957&z=biix,2018,75,DB CH&MP
+Accounting,,,7000.0,7000.0,0,7000.0,2067.78,0.0,2067.78,4932.22,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=943&z=biix,2018,75,DB CH&MP
+Get Your Business Online,,,10000.0,10000.0,0,10000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=944&z=biix,2018,75,DB CH&MP
+IGNITE Your Business,,,10000.0,10000.0,0,10000.0,5800.0,5800.0,0.0,10000.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=945&z=biix,2018,75,DB CH&MP
+Professional Services/SIPS Grants,,,5470.0,5470.0,0,5470.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=946&z=biix,2018,75,DB CH&MP
+Salesforce Development,,,7000.0,7000.0,0,7000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=950&z=biix,2018,75,DB CH&MP
+TA Consultants,,,23000.0,23000.0,0,23000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=949&z=biix,2018,75,DB CH&MP
+First Fridays,,,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=955&z=biix,2018,75,DB CH&MP
+Columbia Heights Day,,,8000.0,8000.0,30000,38000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=952&z=biix,2018,75,DB CH&MP
+Mount Pleasant Event,,,2000.0,2000.0,0,2000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=953&z=biix,2018,75,DB CH&MP
+Tree Lighting,,,1000.0,1000.0,1500,2500.0,1000.0,0.0,0.0,1000.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=951&z=biix,2018,75,DB CH&MP
+Movie Nights,,,1000.0,0.0,3000,4000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=954&z=biix,2018,75,DB CH&MP
+Quarterly Network Meetings,,,4000.0,4000.0,0,4000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=956&z=biix,2018,75,DB CH&MP
+Administrative and Operating Costs,,,51100.0,51100.0,61850,112950.0,20528.4,0.0,20528.4,30571.6,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=811&z=bihx,2018,74,EMMS
+Business Health Checks,,,4000.0,4000.0,0,4000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=817&z=bihx,2018,74,EMMS
+EMMS 2018 Map,,,2500.0,2500.0,0,2500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=821&z=bihx,2018,74,EMMS
+Business Owner Photography Project ,,,2000.0,2000.0,0,2000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=828&z=bihx,2018,74,EMMS
+Training: National Main Street Center,,,2500.0,2500.0,0,2500.0,455.0,0.0,455.0,2045.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=813&z=bihx,2018,74,EMMS
+Website and Software,,,500.0,500.0,0,500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=812&z=bihx,2018,74,EMMS
+Welcome Packets,,,200.0,200.0,0,200.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=822&z=bihx,2018,74,EMMS
+Market Week 2018,,,7000.0,7000.0,3000,10000.0,355.38,0.0,355.38,6644.62,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=824&z=bihx,2018,74,EMMS
+Printing of coming soon banners and TA Guide ,,,600.0,600.0,0,600.0,224.35,0.0,224.35,375.65,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=820&z=bihx,2018,74,EMMS
+Secondary Events ,,,500.0,500.0,500,1000.0,500.0,0.0,500.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=827&z=bihx,2018,74,EMMS
+.,,,0.0,0.0,0,0.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=819&z=bihx,2018,74,EMMS
+Facade Improvement Grant Program ,,,28000.0,28000.0,0,28000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=815&z=bihx,2018,74,EMMS
+Small Business Technical Assistance Grants,,,10000.0,10000.0,0,10000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=818&z=bihx,2018,74,EMMS
+EMMS Street Closure and Traffic Assessment,,,6500.0,6500.0,0,6500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=903&z=bihx,2018,74,EMMS
+Business Census and Survey ,,,5000.0,5000.0,0,5000.0,1469.16,0.0,1468.16,3531.84,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=816&z=bihx,2018,74,EMMS
+Accounting and Audit,,,5100.0,5100.0,0,5100.0,1860.0,0.0,1860.0,3240.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=814&z=bihx,2018,74,EMMS
+Annual Meeting and Report,,,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=823&z=bihx,2018,74,EMMS
+The Holly Days Promotional Campaign,,,9314.29,9314.29,1000,10314.29,9652.78,0.0,9652.78,-338.49,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=826&z=bihx,2018,74,EMMS
+Way finding campaign design projects,,,6000.0,6000.0,1000,7000.0,1824.39,0.0,1824.39,4175.61,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=829&z=bihx,2018,74,EMMS
+Night at the Market ,,,5000.0,5000.0,1000,6000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=825&z=bihx,2018,74,EMMS
+Membership Outreach - Quarterly Newsletter,2016-03-01 00:00:00,2016-09-30 00:00:00,4050.0,4050.0,0,4050.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=507&z=biap,2016,38,TMS
+Accounting & Financial Services,2016-01-01 00:00:00,2016-09-30 00:00:00,5918.0,5918.0,8240,14158.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=541&z=biap,2016,38,TMS
+TMS Annual Meeting,2016-07-01 00:00:00,2016-09-30 00:00:00,600.0,600.0,3250,3850.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=512&z=biap,2016,38,TMS
+Website and Mobile Application,2016-02-02 00:00:00,2016-08-31 00:00:00,15893.0,15893.0,0,15893.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=513&z=biap,2016,38,TMS
+Earth Day - Wisconsin Avenue Beautification,2016-03-01 00:00:00,2016-05-07 00:00:00,1200.0,1200.0,440,1640.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=517&z=biap,2016,38,TMS
+"Printing, Photocopying, Postage (General)",2016-01-01 00:00:00,2016-09-30 00:00:00,863.0,863.0,225,1088.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=540&z=biap,2016,38,TMS
+Social Media Engagement,2016-01-01 00:00:00,2016-09-30 00:00:00,140.0,140.0,140,280.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=515&z=biap,2016,38,TMS
+TMS Database,2016-02-01 00:00:00,2016-04-30 00:00:00,1200.0,1200.0,0,1200.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=510&z=biap,2016,38,TMS
+Tenleytown Main Street Banners,2016-04-01 00:00:00,2016-05-31 00:00:00,5600.0,5600.0,1800,7400.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=523&z=biap,2016,38,TMS
+Monthly Networking & Business Issues Meetings,2016-04-01 00:00:00,2016-09-30 00:00:00,600.0,600.0,600,1200.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=526&z=biap,2016,38,TMS
+Work Plan Development,2016-03-01 00:00:00,2016-03-31 00:00:00,3000.0,3000.0,0,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=529&z=biap,2016,38,TMS
+Board Training and Development,2016-03-01 00:00:00,2016-09-30 00:00:00,4500.0,4500.0,0,4500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=530&z=biap,2016,38,TMS
+Supplies & Equipment,2016-01-01 00:00:00,2016-09-30 00:00:00,811.0,811.0,900,1711.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=539&z=biap,2016,38,TMS
+Establish Tenleytown Main Street Committees,2016-01-01 00:00:00,2016-02-29 00:00:00,0.0,0.0,0,0.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=504&z=biap,2016,38,TMS
+Membership Outreach - Periodic Online Surveys,2016-02-01 00:00:00,2016-09-30 00:00:00,0.0,0.0,300,300.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=506&z=biap,2016,38,TMS
+Membership Outreach - Window Clings,2016-04-01 00:00:00,2016-09-30 00:00:00,0.0,0.0,375,375.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=508&z=biap,2016,38,TMS
+TMS Open House,2016-01-01 00:00:00,2016-01-31 00:00:00,0.0,0.0,200,200.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=514&z=biap,2016,38,TMS
+Tenley Tiger Run,2016-02-01 00:00:00,2016-04-15 00:00:00,0.0,0.0,500,500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=516&z=biap,2016,38,TMS
+TMS Logo,2016-02-01 00:00:00,2016-04-30 00:00:00,0.0,0.0,0,0.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=509&z=biap,2016,38,TMS
+Commercial Facades,2016-03-01 00:00:00,2016-04-30 00:00:00,0.0,0.0,0,0.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=522&z=biap,2016,38,TMS
+Legal Fees,2016-01-01 00:00:00,2016-09-30 00:00:00,0.0,0.0,400,400.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=542&z=biap,2016,38,TMS
+Travel,2016-01-01 00:00:00,2016-09-30 00:00:00,72.0,0.0,153,225.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=543&z=biap,2016,38,TMS
+Inventory of Businesses and Property Owners,2016-02-01 00:00:00,2016-06-30 00:00:00,0.0,0.0,0,0.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=524&z=biap,2016,38,TMS
+Insurance,2016-01-01 00:00:00,2016-09-30 00:00:00,2286.0,2286.0,0,2286.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=538&z=biap,2016,38,TMS
+Communications,2016-01-01 00:00:00,2016-09-30 00:00:00,1745.0,1745.0,270,2015.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=537&z=biap,2016,38,TMS
+Main Street Now Conference,2016-05-01 00:00:00,2016-05-31 00:00:00,2700.0,2700.0,0,2700.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=531&z=biap,2016,38,TMS
+Office Rent & Utilities,2016-01-01 00:00:00,2016-09-30 00:00:00,4405.0,4405.0,6607,11012.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=536&z=biap,2016,38,TMS
+Salary and Benefits,2016-01-01 00:00:00,2016-09-30 00:00:00,63900.0,63900.0,0,63900.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=535&z=biap,2016,38,TMS
+Membership Outreach - Organizational Brochures,2016-02-01 00:00:00,2016-09-30 00:00:00,2147.0,2147.0,253,2400.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=505&z=biap,2016,38,TMS
+Main Street Basic Training,2016-02-01 00:00:00,2016-03-20 00:00:00,1300.0,1300.0,100,1400.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=528&z=biap,2016,38,TMS
+Art All Night,2016-04-01 00:00:00,2016-09-30 00:00:00,15570.0,15570.0,1390,16960.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=520&z=biap,2016,38,TMS
+Year-End Evaluation,2016-09-01 00:00:00,2016-09-30 00:00:00,2500.0,2500.0,0,2500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=534&z=biap,2016,38,TMS
+Building a Business Census Program,2016-04-15 00:00:00,2016-07-31 00:00:00,3000.0,3000.0,0,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=533&z=biap,2016,38,TMS
+Economic Strengthening Committee Training,2016-04-15 00:00:00,2016-07-31 00:00:00,10000.0,10000.0,0,10000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=532&z=biap,2016,38,TMS
+Maintenance of Tree Boxes,2016-03-01 00:00:00,2016-09-30 00:00:00,4400.0,4400.0,600,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=521&z=biap,2016,38,TMS
+Tenleytown Vision 2026,2016-02-01 00:00:00,2016-03-15 00:00:00,3000.0,3000.0,15,3015.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=527&z=biap,2016,38,TMS
+Technical Assistance to Local Businesses,2016-05-01 00:00:00,2016-09-30 00:00:00,4000.0,4000.0,1000,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=525&z=biap,2016,38,TMS
+Make Music Day,2016-03-15 00:00:00,2016-07-08 00:00:00,11900.0,11900.0,990,12890.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=518&z=biap,2016,38,TMS
+TMS Annual Report,2016-07-15 00:00:00,2016-09-30 00:00:00,2700.0,2700.0,0,2700.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=511&z=biap,2016,38,TMS
+Storefront Improvement Projects,2016-04-01 00:00:00,2016-09-30 00:00:00,20000.0,20000.0,4500,24500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=464&z=biap,2016,38,TMS
+Farmers Market,2016-03-15 00:00:00,2016-09-30 00:00:00,0.0,0.0,0,0.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=519&z=biap,2016,38,TMS
+Staff Salary,,,51100.0,51100.0,70000,121100.0,28258.14,0.0,28258.15,22841.85,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=876&z=biex,2018,65,HDCMS
+Art Gallery & Retail Guide,,,6000.0,6000.0,12000,18000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=874&z=biex,2018,65,HDCMS
+Social Media Consulting,,,13000.0,13000.0,0,13000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=871&z=biex,2018,65,HDCMS
+Streetlight Banners,,,1300.0,1300.0,0,1300.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=872&z=biex,2018,65,HDCMS
+Print advertising,,,3000.0,3000.0,0,3000.0,2045.0,0.0,2045.0,955.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=868&z=biex,2018,65,HDCMS
+Audit and 990,,,4500.0,4500.0,0,4500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=864&z=biex,2018,65,HDCMS
+Print newsletter,,,16000.0,16000.0,0,16000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=865&z=biex,2018,65,HDCMS
+Sigh-Awning Grant,,,9000.0,9000.0,12000,21000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=873&z=biex,2018,65,HDCMS
+Main Street Conference,,,1800.0,1800.0,0,1800.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=866&z=biex,2018,65,HDCMS
+Annual Report,,,500.0,500.0,5000,5500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=863&z=biex,2018,65,HDCMS
+Website refresh,,,3000.0,3000.0,0,3000.0,3000.0,0.0,3000.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=867&z=biex,2018,65,HDCMS
+Taste of Dupont,,,3800.0,3800.0,5000,8800.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=869&z=biex,2018,65,HDCMS
+17th Street Festival,,,32000.0,32000.0,35000,67000.0,2500.0,0.0,2500.0,29500.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=870&z=biex,2018,65,HDCMS
+Spring Fling: Business Expo,,,2500.0,2500.0,10000,12500.0,1500.0,0.0,1500.0,1000.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=875&z=biex,2018,65,HDCMS
+ED Payroll,2015-10-01 00:00:00,2016-09-30 00:00:00,37500.0,37500.0,52500,90000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=436&z=bh9n,2016,32,FORIA
+Ribbon Cutting Events,2015-10-01 00:00:00,2016-09-30 00:00:00,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=453&z=bh9n,2016,32,FORIA
+UpRising Arts Fest,2016-06-01 00:00:00,2016-07-01 00:00:00,3500.0,3500.0,3500,7000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=452&z=bh9n,2016,32,FORIA
+PorchFest,2016-04-01 00:00:00,2016-05-01 00:00:00,2000.0,2000.0,2000,4000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=451&z=bh9n,2016,32,FORIA
+Procrastinator's Holiday Market,2015-12-01 00:00:00,2015-12-21 00:00:00,5000.0,5000.0,7500,12500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=450&z=bh9n,2016,32,FORIA
+Small Business Saturday,2015-11-22 00:00:00,2015-11-28 00:00:00,200.0,200.0,500,700.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=449&z=bh9n,2016,32,FORIA
+Fall Fest Week,2016-09-24 00:00:00,2015-09-30 00:00:00,4000.0,4000.0,8000,12000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=448&z=bh9n,2016,32,FORIA
+Holiday Decorations,2015-10-01 00:00:00,2016-09-30 00:00:00,500.0,500.0,500,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=446&z=bh9n,2016,32,FORIA
+Historic Photos/Scrim,2015-10-01 00:00:00,2016-09-30 00:00:00,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=445&z=bh9n,2016,32,FORIA
+Storefront Improvements,2015-10-01 00:00:00,2016-09-30 00:00:00,23500.0,23500.0,254000,277500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=444&z=bh9n,2016,32,FORIA
+Main Street Annual Conference,2016-04-22 00:00:00,2016-04-28 00:00:00,3000.0,3000.0,0,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=438&z=bh9n,2016,32,FORIA
+RIA Radio,2015-10-01 00:00:00,2015-09-30 00:00:00,17800.0,17800.0,11000,28800.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=441&z=bh9n,2016,32,FORIA
+SBTA (Individual),2015-10-01 00:00:00,2016-09-30 00:00:00,4000.0,4000.0,5000,9000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=440&z=bh9n,2016,32,FORIA
+Business Bites,2015-01-25 00:00:00,2015-09-30 00:00:00,6000.0,6000.0,0,6000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=439&z=bh9n,2016,32,FORIA
+Bi-annual audit,2015-10-01 00:00:00,2016-06-30 00:00:00,7000.0,7000.0,0,7000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=437&z=bh9n,2016,32,FORIA
+Annual Meeting,2016-05-01 00:00:00,2016-06-01 00:00:00,1000.0,1000.0,1500,2500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=443&z=bh9n,2016,32,FORIA
+Board Development,2016-01-01 00:00:00,2016-02-01 00:00:00,1500.0,1500.0,500,2000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=442&z=bh9n,2016,32,FORIA
+Advertising ,2015-10-01 00:00:00,2016-09-30 00:00:00,6500.0,6500.0,1000,7500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=454&z=bh9n,2016,32,FORIA
+Business Needs Assessments & planning,2014-10-01 00:00:00,2015-09-30 00:00:00,55000.0,0.0,0,55000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=368&z=bh83,2015,28,HSMS
+Great Streets Technical Assistance Program,2014-10-01 00:00:00,2015-09-30 00:00:00,152000.0,152000.0,0,152000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=361&z=bh83,2015,28,HSMS
+Great Streets commercial planning & development studies,2015-02-01 00:00:00,2015-09-30 00:00:00,125000.0,125000.0,0,125000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=387&z=bh83,2015,28,HSMS
+Accounting,2014-10-01 00:00:00,2015-09-30 00:00:00,7000.0,7000.0,0,7000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=364&z=bh83,2015,28,HSMS
+2015 H Street Festival,2014-11-01 00:00:00,2015-09-30 00:00:00,40000.0,40000.0,160000,200000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=365&z=bh83,2015,28,HSMS
+Storefront Improvement Project,2014-10-01 00:00:00,2015-09-30 00:00:00,60000.0,60000.0,0,60000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=367&z=bh83,2015,28,HSMS
+ED salary,2014-10-01 00:00:00,2015-09-30 00:00:00,97500.0,97500.0,0,97500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=363&z=bh83,2015,28,HSMS
+Marketing & Promotion,2014-10-01 00:00:00,2015-09-30 00:00:00,60500.0,60500.0,15000,75500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=366&z=bh83,2015,28,HSMS
+HSMS Technical Assistance Program ,2014-10-01 00:00:00,2015-09-30 00:00:00,59000.0,59000.0,0,59000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=362&z=bh83,2015,28,HSMS
+NMSC conference registration,2014-10-01 00:00:00,2015-09-30 00:00:00,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=388&z=bh83,2015,28,HSMS
+Great Streets Starburst Activation ,2015-04-01 00:00:00,2015-12-30 00:00:00,218000.0,218000.0,0,218000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=360&z=bh83,2015,28,HSMS
+DDOT Freeway Mural Project,2011-10-01 00:00:00,2013-06-01 00:00:00,0.0,0.0,240000,240000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=36&z=bh9i,2013,3,BRMS
+Fundraising Initiative,2012-10-01 00:00:00,2013-09-30 00:00:00,5000.0,0.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=108&z=bh9i,2013,3,BRMS
+Fundraising Initiative,2011-10-01 00:00:00,2012-09-30 00:00:00,5000.0,0.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=50&z=bh9i,2013,3,BRMS
+DHCD/CDBG Facade Improvement Program,2012-07-01 00:00:00,2012-09-12 00:00:00,0.0,0.0,120000,120000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=93&z=bh9i,2013,3,BRMS
+DDOT TE Mural Project,2010-07-01 00:00:00,2013-10-31 00:00:00,0.0,0.0,240000,240000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=95&z=bh9i,2013,3,BRMS
+DDOT TE Mural Project,2010-07-01 00:00:00,2013-10-31 00:00:00,0.0,0.0,240000,240000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=96&z=bh9i,2013,3,BRMS
+DHCD CDBG Facade Improvement Program,2010-07-01 00:00:00,2012-09-30 00:00:00,0.0,0.0,120000,120000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=37&z=bh9i,2013,3,BRMS
+Volunteer Recruitment,2012-10-01 00:00:00,2013-09-30 00:00:00,1000.0,0.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=107&z=bh9i,2013,3,BRMS
+Fundraising plan,2011-10-01 00:00:00,2012-09-30 00:00:00,5000.0,0.0,5000,10000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=40&z=bh9i,2013,3,BRMS
+Business Recruitment Program,2011-10-01 00:00:00,2012-09-30 00:00:00,4500.0,0.0,0,4500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=42&z=bh9i,2013,3,BRMS
+ED salary,2011-10-01 00:00:00,2013-09-30 00:00:00,60000.0,60000.0,30000,90000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=140&z=bh9i,2013,3,BRMS
+Santa Comes to Barracks Row,2012-09-01 00:00:00,2012-12-15 00:00:00,500.0,0.0,0,500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=45&z=bh9i,2013,3,BRMS
+Business Recruitment Program,2012-10-01 00:00:00,2013-09-30 00:00:00,4500.0,0.0,0,4500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=100&z=bh9i,2013,3,BRMS
+Light pole banners,2012-10-01 00:00:00,2013-09-30 00:00:00,6000.0,6000.0,0,6000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=94&z=bh9i,2013,3,BRMS
+2012 Taste of 8th Street,2012-01-01 00:00:00,2012-04-30 00:00:00,3122.49,0.0,3000,6122.49,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=43&z=bh9i,2013,3,BRMS
+2013 Barracks Row Fall Festival,2013-05-01 00:00:00,2013-10-31 00:00:00,15000.0,15000.0,20000,35000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=102&z=bh9i,2013,3,BRMS
+2013 Business Retention -marketing package,2012-10-01 00:00:00,2013-09-30 00:00:00,10823.5,10823.5,0,10823.5,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=99&z=bh9i,2013,3,BRMS
+2012 Barracks Row Fall Festival,2012-03-01 00:00:00,2012-09-24 00:00:00,10000.0,10000.0,15000,25000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=44&z=bh9i,2013,3,BRMS
+2012 & 2013 Annual Meeting,2012-01-01 00:00:00,2012-03-14 00:00:00,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=48&z=bh9i,2013,3,BRMS
+BRMS Business Map Project,2011-10-01 00:00:00,2013-09-30 00:00:00,3634.23,3634.23,0,3634.23,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=98&z=bh9i,2013,3,BRMS
+Barracks Row Culinary Education Crawl,2012-10-01 00:00:00,2013-09-30 00:00:00,2350.0,2350.0,0,2350.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=104&z=bh9i,2013,3,BRMS
+2013 National Main Streets Conference,2013-04-14 00:00:00,2013-04-16 00:00:00,455.0,0.0,1650,2105.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=144&z=bh9i,2013,3,BRMS
+Small Business Saturdays,2011-11-01 00:00:00,2011-11-30 00:00:00,1000.0,0.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=47&z=bh9i,2013,3,BRMS
+FY2012 & 2013 Small Business Saturdays,2012-10-01 00:00:00,2012-11-30 00:00:00,2000.0,2000.0,0,2000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=105&z=bh9i,2013,3,BRMS
+2012 Barracks Row Culinary Education Crawl,2011-10-01 00:00:00,2012-09-30 00:00:00,479.08,479.08,0,479.08,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=46&z=bh9i,2013,3,BRMS
+Easter Egg Hunt,2013-03-30 00:00:00,2013-03-20 00:00:00,358.12,358.12,0,358.12,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=142&z=bh9i,2013,3,BRMS
+Share Ad Campaign,2011-10-01 00:00:00,2013-09-30 00:00:00,2904.3,2904.3,2000,4904.3,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=38&z=bh9i,2013,3,BRMS
+Volunteer Recruitment,2012-07-12 00:00:00,2012-09-12 00:00:00,996.4,996.4,0,996.4,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=49&z=bh9i,2013,3,BRMS
+Santa Arrives on 8th Street 2011 + 2012,2011-12-09 00:00:00,2012-12-15 00:00:00,1000.0,0.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=143&z=bh9i,2013,3,BRMS
+2012  &2013 Santa comes to Barracks Row,2012-11-01 00:00:00,2012-12-31 00:00:00,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=103&z=bh9i,2013,3,BRMS
+2012 & 2013 Taste of 8th Street,2013-01-01 00:00:00,2013-05-31 00:00:00,8417.72,8417.72,0,8417.72,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=101&z=bh9i,2013,3,BRMS
+Signage grant,2013-01-01 00:00:00,2013-09-30 00:00:00,32847.14,32847.14,0,32847.14,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=111&z=bh9i,2013,3,BRMS
+Needs Assessments,2012-10-01 00:00:00,2013-09-30 00:00:00,9201.9,9201.9,0,9201.9,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=97&z=bh9i,2013,3,BRMS
+New Business Banner Program,2011-10-01 00:00:00,2013-09-30 00:00:00,1750.0,0.0,500,2250.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=39&z=bh9i,2013,3,BRMS
+TA -Business Retention,2011-10-01 00:00:00,2012-09-30 00:00:00,24732.61,24732.61,0,24732.61,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=41&z=bh9i,2013,3,BRMS
+Business Inventory and Tracking,2011-10-01 00:00:00,2013-09-30 00:00:00,5000.0,5000.0,3500,8500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=14&z=bh9i,2013,3,BRMS
+Outreach to businesses,2013-01-01 00:00:00,2013-03-31 00:00:00,3255.0,3255.0,0,3255.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=106&z=bh9i,2013,3,BRMS
+ED salary ,2013-10-01 00:00:00,2014-09-30 00:00:00,37500.0,37500.0,40000,77500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=188&z=bh7h,2014,15,DHMS
+Audit & accounting,2013-10-01 00:00:00,2014-09-30 00:00:00,7000.0,7000.0,0,7000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=189&z=bh7h,2014,15,DHMS
+MS Building Sign,2013-10-01 00:00:00,2014-09-30 00:00:00,5000.0,0.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=192&z=bh7h,2014,15,DHMS
+Ward 7 business social network & directory ,2013-10-01 00:00:00,2014-09-30 00:00:00,9000.0,9000.0,1500,10500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=195&z=bh7h,2014,15,DHMS
+SIP,2013-10-01 00:00:00,2014-09-30 00:00:00,45000.0,45000.0,0,45000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=190&z=bh7h,2014,15,DHMS
+Biz web pages,2013-10-01 00:00:00,2014-09-30 00:00:00,3000.0,3000.0,0,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=196&z=bh7h,2014,15,DHMS
+Social Media Consultations,2013-10-01 00:00:00,2014-09-30 00:00:00,3300.0,3300.0,0,3300.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=194&z=bh7h,2014,15,DHMS
+Business Needs Assessments & Marketing TA,2013-10-01 00:00:00,2014-09-30 00:00:00,12000.0,12000.0,0,12000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=193&z=bh7h,2014,15,DHMS
+Newsletter,2013-10-01 00:00:00,2014-09-30 00:00:00,3000.0,3000.0,0,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=197&z=bh7h,2014,15,DHMS
+Banners ,2013-10-01 00:00:00,2014-09-30 00:00:00,5000.0,5000.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=191&z=bh7h,2014,15,DHMS
+WMATA promotion,2013-10-01 00:00:00,2013-12-31 00:00:00,800.0,800.0,0,800.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=257&z=bh7h,2014,15,DHMS
+Boundary Expansion & Clean Team,2014-12-01 00:00:00,2015-09-30 00:00:00,0.0,0.0,100000,100000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=315&z=bh8e,2015,22,DHMS
+Quarterly Newsletter,2014-12-01 00:00:00,2015-09-30 00:00:00,4500.0,4500.0,300,4800.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=313&z=bh8e,2015,22,DHMS
+Ads in Local papers,2014-10-01 00:00:00,2015-09-30 00:00:00,5000.0,5000.0,5000,10000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=314&z=bh8e,2015,22,DHMS
+Annual Event,2014-11-01 00:00:00,2015-09-30 00:00:00,12000.0,12000.0,8000,20000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=312&z=bh8e,2015,22,DHMS
+Banner permits and removal,2015-02-02 00:00:00,2015-06-30 00:00:00,2500.0,2500.0,0,2500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=311&z=bh8e,2015,22,DHMS
+2015 Annual Meeting & Report,2015-01-21 00:00:00,2015-01-21 00:00:00,500.0,500.0,0,500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=310&z=bh8e,2015,22,DHMS
+Executive Director Salary,2014-10-01 00:00:00,2015-09-30 00:00:00,37500.0,37500.0,23500,61000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=309&z=bh8e,2015,22,DHMS
+Audit,2015-02-02 00:00:00,2015-03-02 00:00:00,7000.0,7000.0,0,7000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=308&z=bh8e,2015,22,DHMS
+Small Business T/A,2015-01-05 00:00:00,2015-09-30 00:00:00,11000.0,11000.0,60000,71000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=307&z=bh8e,2015,22,DHMS
+Store Front Improvements,2014-12-01 00:00:00,2015-06-30 00:00:00,45000.0,45000.0,30000,75000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=306&z=bh8e,2015,22,DHMS
+Accountant & auditor's fees,2013-10-01 00:00:00,2014-09-30 00:00:00,7000.0,7000.0,5000,12000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=170&z=bh65,2014,12,HSMS
+2014 H Street Festival,2013-11-20 00:00:00,2014-09-30 00:00:00,20000.0,20000.0,70000,90000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=168&z=bh65,2014,12,HSMS
+SIPs,2013-10-01 00:00:00,2014-09-30 00:00:00,15000.0,15000.0,0,15000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=173&z=bh65,2014,12,HSMS
+Business inventory & tracking,2013-10-01 00:00:00,2014-09-30 00:00:00,3000.0,3000.0,0,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=174&z=bh65,2014,12,HSMS
+WMATA campaign,2013-10-01 00:00:00,2013-12-31 00:00:00,2500.0,2500.0,0,2500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=171&z=bh65,2014,12,HSMS
+ED salary & admin,2013-10-01 00:00:00,2014-09-30 00:00:00,67500.0,67500.0,46200,113700.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=169&z=bh65,2014,12,HSMS
+Business Needs Assessments,2013-10-01 00:00:00,2014-09-30 00:00:00,27000.0,27000.0,0,27000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=186&z=bh65,2014,12,HSMS
+Marketing & advertising,2013-10-01 00:00:00,2014-09-30 00:00:00,25000.0,25000.0,0,25000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=172&z=bh65,2014,12,HSMS
+Technical Assistance,2013-10-01 00:00:00,2014-09-30 00:00:00,58000.0,58000.0,0,58000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=175&z=bh65,2014,12,HSMS
+Promotional events,2013-10-01 00:00:00,2014-09-30 00:00:00,14000.0,0.0,0,14000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=187&z=bh65,2014,12,HSMS
+Marketing and Re-branding ,2016-10-01 00:00:00,2017-09-30 00:00:00,13000.0,13000.0,0,13000.0,11225.0,0.0,7000.0,6000.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=583&z=bic5,2017,55,DCH
+SIPS,2016-10-01 00:00:00,2017-09-30 00:00:00,10000.0,10000.0,10000,20000.0,7206.89,0.0,5176.51,4823.49,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=585&z=bic5,2017,55,DCH
+DCH Website Maintenance and updates ,2016-10-01 00:00:00,2017-09-30 00:00:00,1000.0,1000.0,0,1000.0,1200.0,0.0,1200.0,-200.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=598&z=bic5,2017,55,DCH
+Creative Place-Making Pop Ups,2017-03-01 00:00:00,2017-09-30 00:00:00,5000.0,5000.0,0,5000.0,8852.0,0.0,8852.0,-3852.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=588&z=bic5,2017,55,DCH
+Video Marketing Campaign ,2017-03-01 00:00:00,2017-09-30 00:00:00,5000.0,5000.0,0,5000.0,5000.0,0.0,5000.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=590&z=bic5,2017,55,DCH
+MS Conference Travel,2017-01-01 00:00:00,2017-05-31 00:00:00,2000.0,2000.0,0,2000.0,958.31,0.0,958.31,1041.69,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=593&z=bic5,2017,55,DCH
+MS Conference Registration ,2017-01-31 00:00:00,2017-05-31 00:00:00,1000.0,1000.0,0,1000.0,850.0,0.0,850.0,150.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=594&z=bic5,2017,55,DCH
+DCH Branding and Marketing ,2016-10-01 00:00:00,2017-09-30 00:00:00,2000.0,2000.0,0,2000.0,2070.0,0.0,2070.0,-70.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=599&z=bic5,2017,55,DCH
+Congress Heights Day ,2016-10-01 00:00:00,2017-09-30 00:00:00,8000.0,8000.0,15000,23000.0,9375.0,0.0,8375.0,-375.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=586&z=bic5,2017,55,DCH
+Training ,2017-01-01 00:00:00,2017-09-30 00:00:00,0.0,0.0,0,0.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=596&z=bic5,2017,55,DCH
+Congress Heights Pageant ,2016-11-01 00:00:00,2017-09-29 00:00:00,1000.0,0.0,2000,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=595&z=bic5,2017,55,DCH
+Great Streets Honors Awards ,2017-05-01 00:00:00,2017-09-30 00:00:00,5000.0,5000.0,10000,15000.0,7156.0,0.0,7156.0,-2156.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=591&z=bic5,2017,55,DCH
+Congress Heights Jazz Festival ,2017-01-06 00:00:00,2017-09-30 00:00:00,5000.0,5000.0,2500,7500.0,8700.0,0.0,8700.0,-3700.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=589&z=bic5,2017,55,DCH
+Storefront Redesign Consultant ,2016-11-01 00:00:00,2017-09-30 00:00:00,3000.0,3000.0,0,3000.0,2000.0,0.0,2000.0,1000.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=592&z=bic5,2017,55,DCH
+Community Cleanup ,2017-01-01 00:00:00,2017-09-30 00:00:00,2500.0,2500.0,0,2500.0,2500.0,0.0,2500.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=597&z=bic5,2017,55,DCH
+Small Business Workshops ,2017-01-01 00:00:00,2017-09-30 00:00:00,11500.0,11500.0,0,11500.0,11500.0,0.0,11500.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=587&z=bic5,2017,55,DCH
+Monthly newsletter ,2016-10-01 00:00:00,2017-09-30 00:00:00,3500.0,3500.0,0,3500.0,2800.0,0.0,2800.0,700.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=726&z=bic5,2017,55,DCH
+ED Salary ,2016-10-01 00:00:00,2017-10-31 00:00:00,38700.0,38700.0,12500,51200.0,40376.25,0.0,38700.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=584&z=bic5,2017,55,DCH
+Art All Night ,2016-11-01 00:00:00,2017-09-29 00:00:00,29166.0,29166.0,10000,39166.0,46335.9,0.0,45328.18,-16162.18,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=582&z=bic5,2017,55,DCH
+Minnesota Avenue Main Street -Executive Director,,,55000.0,55000.0,5000,60000.0,14579.29,0.0,9774.86,45225.14,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1040&z=bijp,2018,77,MINN AVE
+Business Census,,,3000.0,3000.0,0,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1050&z=bijp,2018,77,MINN AVE
+Pop-up Shop on Minnesota Ave,,,15000.0,15000.0,0,15000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1051&z=bijp,2018,77,MINN AVE
+Association for Enterprise Opportunity (AEO) Conference,,,2000.0,0.0,0,2000.0,350.0,0.0,350.0,-350.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1074&z=bijp,2018,77,MINN AVE
+Conference registration & travel,,,3000.0,3000.0,0,3000.0,1856.04,0.0,1856.04,1143.96,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1070&z=bijp,2018,77,MINN AVE
+Art All Night,,,30000.0,30000.0,0,30000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1052&z=bijp,2018,77,MINN AVE
+Great Streets grant preparation,,,5000.0,5000.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1075&z=bijp,2018,77,MINN AVE
+Other Administrative Costs,,,25000.0,25000.0,0,25000.0,7577.0,0.0,7577.0,17423.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1078&z=bijp,2018,77,MINN AVE
+Year End Review,,,2500.0,2500.0,0,2500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1071&z=bijp,2018,77,MINN AVE
+Vision and Mission Statement Development,,,2000.0,2000.0,0,2000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1072&z=bijp,2018,77,MINN AVE
+Board Development,,,3000.0,3000.0,0,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1076&z=bijp,2018,77,MINN AVE
+Technical Assistance Training for Businesses,,,20000.0,20000.0,0,20000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1073&z=bijp,2018,77,MINN AVE
+Misc training,,,4500.0,4500.0,0,4500.0,20.0,0.0,20.0,4480.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1093&z=bijp,2018,77,MINN AVE
+Storefront Signage,,,7000.0,7000.0,0,7000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1077&z=bijp,2018,77,MINN AVE
+ED Salary & Operations,,,51100.0,51100.0,0,51100.0,7038.0,0.0,0.0,51100.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1007&z=bid3,2018,60,DHMS
+2018 Storefront Improvements,,,27000.0,27000.0,0,27000.0,20500.0,0.0,0.0,27000.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=972&z=bid3,2018,60,DHMS
+Annual Meeting,,,500.0,500.0,0,500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=986&z=bid3,2018,60,DHMS
+National Small Business Week,,,400.0,400.0,0,400.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=985&z=bid3,2018,60,DHMS
+Board/Staff development,,,3000.0,3000.0,0,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=984&z=bid3,2018,60,DHMS
+Newsletter,,,3000.0,3000.0,0,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=982&z=bid3,2018,60,DHMS
+Annual Event,,,5000.0,5000.0,8000,13000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=980&z=bid3,2018,60,DHMS
+Series of Promotional events,,,19000.0,19000.0,2000,21000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=981&z=bid3,2018,60,DHMS
+Web page redesign,,,4000.0,0.0,0,4000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=987&z=bid3,2018,60,DHMS
+SBTA,,,5000.0,5000.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=975&z=bid3,2018,60,DHMS
+Small Business Ads,,,5000.0,5000.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=978&z=bid3,2018,60,DHMS
+Banners,,,3500.0,3500.0,0,3500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=974&z=bid3,2018,60,DHMS
+Branding,,,3500.0,0.0,0,3500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=973&z=bid3,2018,60,DHMS
+Small Business Web Pages,,,3000.0,3000.0,0,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=977&z=bid3,2018,60,DHMS
+Space Promotion,,,5000.0,5000.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=976&z=bid3,2018,60,DHMS
+Small Business Saturday,,,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=979&z=bid3,2018,60,DHMS
+SIP & TA outreach,,,7000.0,7000.0,0,7000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=983&z=bid3,2018,60,DHMS
+Real Estate Mixer,2015-02-01 00:00:00,2015-04-30 00:00:00,1000.0,0.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=359&z=bh78,2015,21,NCMS
+Art All Night,2015-01-01 00:00:00,2015-09-30 00:00:00,10000.0,10000.0,30000,40000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=356&z=bh78,2015,21,NCMS
+Storefront Improvement Project,2015-01-01 00:00:00,2015-06-30 00:00:00,20000.0,20000.0,0,20000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=350&z=bh78,2015,21,NCMS
+Ward 5 Gala Fundraiser,2015-01-01 00:00:00,2015-05-30 00:00:00,10000.0,0.0,20000,30000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=358&z=bh78,2015,21,NCMS
+Small Business Saturday,2015-08-01 00:00:00,2015-09-15 00:00:00,200.0,200.0,0,200.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=355&z=bh78,2015,21,NCMS
+Annual Accounting,2014-10-01 00:00:00,2015-09-30 00:00:00,7000.0,7000.0,0,7000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=341&z=bh78,2015,21,NCMS
+Audit and Tax Returns,2015-02-01 00:00:00,2015-05-15 00:00:00,5500.0,0.0,0,5500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=342&z=bh78,2015,21,NCMS
+Governance Assistance,2015-03-01 00:00:00,2015-03-31 00:00:00,500.0,0.0,0,500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=343&z=bh78,2015,21,NCMS
+Bumrush a Business,2015-03-01 00:00:00,2015-06-30 00:00:00,250.0,250.0,0,250.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=357&z=bh78,2015,21,NCMS
+Organizational Insurance,2015-01-01 00:00:00,2015-12-31 00:00:00,577.0,0.0,0,577.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=344&z=bh78,2015,21,NCMS
+Board Recruitment and Networking Event,2015-08-01 00:00:00,2015-08-31 00:00:00,1000.0,0.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=346&z=bh78,2015,21,NCMS
+ED salary,2014-10-01 00:00:00,2015-09-30 00:00:00,37500.0,37500.0,69027,106527.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=340&z=bh78,2015,21,NCMS
+NCMS Website,2015-01-01 00:00:00,2015-09-30 00:00:00,3750.0,3750.0,0,3750.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=347&z=bh78,2015,21,NCMS
+Retail Store Makeovers,2015-02-01 00:00:00,2015-06-30 00:00:00,10000.0,0.0,0,10000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=351&z=bh78,2015,21,NCMS
+Website TA,2015-02-01 00:00:00,2015-06-30 00:00:00,10000.0,0.0,0,10000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=354&z=bh78,2015,21,NCMS
+Inventory Grant,2015-02-01 00:00:00,2015-06-30 00:00:00,17000.0,0.0,0,17000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=353&z=bh78,2015,21,NCMS
+Marketing and Social Media Assessments & TA,2015-03-01 00:00:00,2015-06-30 00:00:00,5000.0,5000.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=352&z=bh78,2015,21,NCMS
+Summer Concert Series,2015-06-01 00:00:00,2015-09-30 00:00:00,10000.0,10000.0,0,10000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=391&z=bh78,2015,21,NCMS
+Strategic Plan,2015-02-01 00:00:00,2015-04-30 00:00:00,20000.0,20000.0,0,20000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=348&z=bh78,2015,21,NCMS
+Annual Meeting and Annual Report,2015-02-01 00:00:00,2015-04-30 00:00:00,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=349&z=bh78,2015,21,NCMS
+NMSC Membership,2014-10-01 00:00:00,2015-09-30 00:00:00,3350.0,3350.0,0,3350.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=345&z=bh78,2015,21,NCMS
+Business & Corridor Promotions and Marketing Collateral,2015-05-01 00:00:00,2015-09-30 00:00:00,6950.0,6950.0,0,6950.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=392&z=bh78,2015,21,NCMS
+Business/Commercial Property Database,2014-10-01 00:00:00,2014-09-25 00:00:00,5000.0,0.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=287&z=bh8w,2015,27,FORIA
+DSLBD-funded operations components,2014-10-01 00:00:00,2015-09-30 00:00:00,37500.0,37500.0,0,37500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=294&z=bh8w,2015,27,FORIA
+Street corner planters,2015-02-15 00:00:00,2015-09-01 00:00:00,3000.0,0.0,3000,6000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=302&z=bh8w,2015,27,FORIA
+Historic Call Box Restoration,2015-01-05 00:00:00,2015-09-30 00:00:00,2000.0,2000.0,4000,6000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=303&z=bh8w,2015,27,FORIA
+RIA MS Branding,2015-01-05 00:00:00,2015-09-30 00:00:00,2000.0,0.0,0,2000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=305&z=bh8w,2015,27,FORIA
+Historic Photos installation,2014-10-01 00:00:00,2015-09-25 00:00:00,3000.0,3000.0,0,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=304&z=bh8w,2015,27,FORIA
+Annual Meeting,2015-01-05 00:00:00,2015-07-30 00:00:00,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=300&z=bh8w,2015,27,FORIA
+Volunteer Recruitment & Retention,2014-10-01 00:00:00,2015-09-25 00:00:00,1300.0,1300.0,0,1300.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=293&z=bh8w,2015,27,FORIA
+Fall Fest Week,2015-01-05 00:00:00,2015-09-30 00:00:00,6000.0,6000.0,0,6000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=296&z=bh8w,2015,27,FORIA
+Newsletter & Website,2014-10-01 00:00:00,2015-09-25 00:00:00,4000.0,4000.0,0,4000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=292&z=bh8w,2015,27,FORIA
+Business Directory,2015-02-01 00:00:00,2015-09-30 00:00:00,4000.0,4000.0,0,4000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=297&z=bh8w,2015,27,FORIA
+Business Promotional Events,2014-11-03 00:00:00,2015-09-30 00:00:00,3000.0,3000.0,0,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=298&z=bh8w,2015,27,FORIA
+Individual TA,2014-10-01 00:00:00,2015-09-25 00:00:00,5000.0,5000.0,25000,30000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=289&z=bh8w,2015,27,FORIA
+TA - Group,2014-10-01 00:00:00,2015-09-22 00:00:00,5000.0,5000.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=285&z=bh8w,2015,27,FORIA
+Business Recruitment/Retention,2014-10-01 00:00:00,2014-09-25 00:00:00,3000.0,3000.0,0,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=288&z=bh8w,2015,27,FORIA
+Business Needs Assessment,2014-10-01 00:00:00,2015-09-25 00:00:00,4000.0,4000.0,1000,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=290&z=bh8w,2015,27,FORIA
+WebTV,2015-01-05 00:00:00,2015-06-30 00:00:00,2000.0,2000.0,1000,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=291&z=bh8w,2015,27,FORIA
+Retail recruittment event & community appreciation,2014-11-01 00:00:00,2015-02-14 00:00:00,3000.0,3000.0,0,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=299&z=bh8w,2015,27,FORIA
+Storefront/Facade Improvement,2014-10-01 00:00:00,2015-09-25 00:00:00,35000.0,35000.0,109000,144000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=301&z=bh8w,2015,27,FORIA
+Fundraising TA & Materials,2014-10-01 00:00:00,2015-09-30 00:00:00,6200.0,6200.0,0,6200.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=295&z=bh8w,2015,27,FORIA
+Streetscape Improvements,2014-05-01 00:00:00,2014-09-30 00:00:00,0.0,0.0,0,0.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=240&z=bh7d,2014,14,FORIA
+Fall Fest event development,2014-03-03 00:00:00,2014-09-30 00:00:00,5000.0,0.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=238&z=bh7d,2014,14,FORIA
+Business Needs Assessment,2014-03-31 00:00:00,2014-09-30 00:00:00,500.0,500.0,0,500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=258&z=bh7d,2014,14,FORIA
+Grand Openings/Ribbon Cuttings,2014-05-01 00:00:00,2014-09-30 00:00:00,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=264&z=bh7d,2014,14,FORIA
+Technical Assistance - One on One,2014-03-31 00:00:00,2014-09-30 00:00:00,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=261&z=bh7d,2014,14,FORIA
+Storefront Improvements,2014-04-30 00:00:00,2014-09-30 00:00:00,65000.0,65000.0,0,65000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=236&z=bh7d,2014,14,FORIA
+Business Retention,2013-11-01 00:00:00,2014-09-30 00:00:00,6000.0,6000.0,0,6000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=263&z=bh7d,2014,14,FORIA
+Technical Assistance - Group (Biz Bites),2014-06-02 00:00:00,2014-09-30 00:00:00,3000.0,3000.0,0,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=262&z=bh7d,2014,14,FORIA
+Startup Activities,2013-10-01 00:00:00,2014-09-30 00:00:00,100000.0,100000.0,0,100000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=255&z=bh7d,2014,14,FORIA
+Fundraising/Sponsorships,2014-04-01 00:00:00,2014-09-30 00:00:00,4000.0,4000.0,0,4000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=266&z=bh7d,2014,14,FORIA
+Website/Newsletters,2014-04-01 00:00:00,2014-09-30 00:00:00,2000.0,2000.0,0,2000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=267&z=bh7d,2014,14,FORIA
+Volunteer Recruitment,2014-05-01 00:00:00,2014-10-30 00:00:00,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=239&z=bh7d,2014,14,FORIA
+RIA-MS Collateral Materials,2014-03-03 00:00:00,2014-09-30 00:00:00,10000.0,10000.0,0,10000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=265&z=bh7d,2014,14,FORIA
+Business Database,2014-01-01 00:00:00,2014-09-30 00:00:00,750.0,750.0,0,750.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=237&z=bh7d,2014,14,FORIA
+Business Directory,2014-06-01 00:00:00,2014-09-30 00:00:00,750.0,750.0,0,750.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=268&z=bh7d,2014,14,FORIA
+Shaw Main Streets Newsletter,2014-01-01 00:00:00,2014-09-30 00:00:00,10000.0,10000.0,5000,15000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=218&z=bh69,2014,13,SMS
+Shaw Black History Month Event,2014-02-01 00:00:00,2014-02-28 00:00:00,500.0,500.0,0,500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=226&z=bh69,2014,13,SMS
+Shaw Main Streets Website Directory,2014-01-01 00:00:00,2014-09-30 00:00:00,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=223&z=bh69,2014,13,SMS
+Art All Night 2014,2014-09-01 00:00:00,2014-09-30 00:00:00,10000.0,10000.0,30000,40000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=228&z=bh69,2014,13,SMS
+Shaw Open House,2014-09-01 00:00:00,2014-09-30 00:00:00,5000.0,5000.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=221&z=bh69,2014,13,SMS
+ED salary,2013-10-01 00:00:00,2014-09-30 00:00:00,37500.0,37500.0,25500,63000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=229&z=bh69,2014,13,SMS
+Taste of Shaw,2014-06-01 00:00:00,2014-06-30 00:00:00,0.0,0.0,0,0.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=222&z=bh69,2014,13,SMS
+Storefront Improvement Project,2014-01-01 00:00:00,2014-09-30 00:00:00,5000.0,5000.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=219&z=bh69,2014,13,SMS
+Cross Promotion Collaborative Advertising,2013-10-01 00:00:00,2014-09-30 00:00:00,24250.0,24250.0,8000,32250.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=220&z=bh69,2014,13,SMS
+Social Media & Web Marketing,2013-10-01 00:00:00,2014-09-30 00:00:00,5250.0,5250.0,0,5250.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=216&z=bh69,2014,13,SMS
+Business Owners Meet & Greet,2014-01-01 00:00:00,2014-09-30 00:00:00,500.0,500.0,0,500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=217&z=bh69,2014,13,SMS
+Shaw Dining Guide & Mobile App,2013-10-01 00:00:00,2014-09-30 00:00:00,2500.0,2500.0,0,2500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=225&z=bh69,2014,13,SMS
+Shaw Business Directory and Mobile App,2013-10-01 00:00:00,2014-09-30 00:00:00,2500.0,2500.0,0,2500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=224&z=bh69,2014,13,SMS
+Collaborative Cross Promotions Postcards,2014-02-01 00:00:00,2014-09-30 00:00:00,21000.0,21000.0,0,21000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=227&z=bh69,2014,13,SMS
+ED Salary,,,55000.0,55000.0,10000,65000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1039&z=bimb,2018,79,GEORGETOWN
+Accounting & Audit,,,7000.0,7000.0,0,7000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1057&z=bimb,2018,79,GEORGETOWN
+Overhead and Operating Costs,,,24000.0,24000.0,0,24000.0,4154.48,0.0,2768.54,21231.46,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1053&z=bimb,2018,79,GEORGETOWN
+Vacant Storefront Displays,,,2000.0,2000.0,0,2000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1059&z=bimb,2018,79,GEORGETOWN
+Neighborhood Engagement,,,5000.0,0.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1054&z=bimb,2018,79,GEORGETOWN
+Database and Website Management,,,500.0,500.0,0,500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1055&z=bimb,2018,79,GEORGETOWN
+Signage and Facade Improvement Grants,,,16500.0,16500.0,0,16500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1058&z=bimb,2018,79,GEORGETOWN
+Small Business Technical Assistance Programs,,,16500.0,16500.0,0,16500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1063&z=bimb,2018,79,GEORGETOWN
+Rose Garden,,,0.0,0.0,0,0.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1068&z=bimb,2018,79,GEORGETOWN
+Wander Wisconsin - Retail & Restaurant Event,,,15000.0,15000.0,0,15000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1067&z=bimb,2018,79,GEORGETOWN
+Book Hill Book Exchange,,,1500.0,0.0,0,1500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1069&z=bimb,2018,79,GEORGETOWN
+"Business Surveys,  and Roundtables",,,2500.0,2500.0,0,2500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1062&z=bimb,2018,79,GEORGETOWN
+GMS Branding and Map,,,9000.0,9000.0,0,9000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1064&z=bimb,2018,79,GEORGETOWN
+Economic Development Assessment,,,1500.0,1500.0,0,1500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1061&z=bimb,2018,79,GEORGETOWN
+Streetscape  Assessment and Project Prioritization,,,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1060&z=bimb,2018,79,GEORGETOWN
+Welcome Packets,,,1500.0,1500.0,0,1500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1065&z=bimb,2018,79,GEORGETOWN
+Staff and Board Training,,,15000.0,15000.0,0,15000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1056&z=bimb,2018,79,GEORGETOWN
+Photographers,,,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=1066&z=bimb,2018,79,GEORGETOWN
+Neighborhood Director Salary,,,55000.0,55000.0,10000,65000.0,9788.21,0.0,9788.21,45211.79,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=925&z=bijd,2018,76,DB LGA
+Rent,,,15000.0,15000.0,3000,18000.0,13426.37,0.0,13426.37,1573.63,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=926&z=bijd,2018,76,DB LGA
+Equipment/Laptops,,,5000.0,5000.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=927&z=bijd,2018,76,DB LGA
+First Fridays,,,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=940&z=bijd,2018,76,DB LGA
+Petworth Event,,,2000.0,2000.0,0,2000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=937&z=bijd,2018,76,DB LGA
+Pleasant Plains/Howard Event,,,2000.0,2000.0,0,2000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=939&z=bijd,2018,76,DB LGA
+Parkview Event,,,2000.0,2000.0,0,2000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=938&z=bijd,2018,76,DB LGA
+Branding/Marketing/Web Development,,,20000.0,20000.0,0,20000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=936&z=bijd,2018,76,DB LGA
+TA Consultants,,,13000.0,13000.0,0,13000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=935&z=bijd,2018,76,DB LGA
+Conference Travel & Accommodations,,,2000.0,2000.0,0,2000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=934&z=bijd,2018,76,DB LGA
+Accounting,,,7000.0,7000.0,0,7000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=929&z=bijd,2018,76,DB LGA
+Insurance,,,5000.0,5000.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=928&z=bijd,2018,76,DB LGA
+Continuing Education,,,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=933&z=bijd,2018,76,DB LGA
+Professional Services/SIPS Grants,,,8000.0,8000.0,0,8000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=932&z=bijd,2018,76,DB LGA
+Corner Store Conversion,,,15000.0,15000.0,0,15000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=931&z=bijd,2018,76,DB LGA
+IGNITE Your Business,,,10000.0,10000.0,0,10000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=930&z=bijd,2018,76,DB LGA
+Main Street Training,,,12000.0,12000.0,0,12000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=941&z=bijd,2018,76,DB LGA
+Operations,2013-10-01 00:00:00,2014-09-30 00:00:00,5000.0,5000.0,1170,6170.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=158&z=bh6z,2014,11,HDCMS
+Print Advertising,2013-10-01 00:00:00,2014-09-30 00:00:00,6000.0,6000.0,0,6000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=162&z=bh6z,2014,11,HDCMS
+Annual Meeting and Silent Auction,2014-01-01 00:00:00,2014-02-28 00:00:00,1000.0,1000.0,2000,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=166&z=bh6z,2014,11,HDCMS
+Retail Guide,2014-01-01 00:00:00,2014-05-31 00:00:00,5000.0,5000.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=159&z=bh6z,2014,11,HDCMS
+Website,2014-02-03 00:00:00,2014-06-01 00:00:00,10000.0,10000.0,0,10000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=161&z=bh6z,2014,11,HDCMS
+Taste of Dupont,2014-04-01 00:00:00,2014-05-31 00:00:00,5000.0,5000.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=163&z=bh6z,2014,11,HDCMS
+Events in the Circle,2014-06-01 00:00:00,2014-09-30 00:00:00,10000.0,10000.0,10000,20000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=164&z=bh6z,2014,11,HDCMS
+Banners,2013-10-01 00:00:00,2013-12-31 00:00:00,12000.0,12000.0,9000,21000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=160&z=bh6z,2014,11,HDCMS
+Newsletter,2013-10-01 00:00:00,2014-09-30 00:00:00,12000.0,12000.0,0,12000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=157&z=bh6z,2014,11,HDCMS
+Staffing,2013-10-01 00:00:00,2014-09-30 00:00:00,37500.0,37500.0,85000,122500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=167&z=bh6z,2014,11,HDCMS
+17th Street Festival,2014-09-01 00:00:00,2014-09-30 00:00:00,14000.0,14000.0,11000,25000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=165&z=bh6z,2014,11,HDCMS
+Annual Report,2014-01-01 00:00:00,2014-03-31 00:00:00,500.0,500.0,0,500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=145&z=bh6z,2014,11,HDCMS
+audit,2013-10-01 00:00:00,2013-12-31 00:00:00,5000.0,5000.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=146&z=bh6z,2014,11,HDCMS
+Operate Effective Main Streets Program,2012-12-01 00:00:00,2013-09-30 00:00:00,60000.0,60000.0,0,60000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=18&z=biai,2013,9,NCMS
+Promoting Main Street,2013-12-01 00:00:00,2013-06-30 00:00:00,75000.0,75000.0,0,75000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=112&z=biai,2013,9,NCMS
+Showcase Storefront Improvement,2013-04-01 00:00:00,2013-07-31 00:00:00,20000.0,20000.0,6000,26000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=113&z=biai,2013,9,NCMS
+Website redevelopment -- NCMS Business Marketplace,2013-01-02 00:00:00,2013-04-30 00:00:00,40000.0,0.0,0,40000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=114&z=biai,2013,9,NCMS
+Showcase Storefront Technical Assistance,2013-03-04 00:00:00,2013-07-31 00:00:00,5000.0,5000.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=115&z=biai,2013,9,NCMS
+Administration,2016-11-01 00:00:00,2017-09-30 00:00:00,80000.0,80000.0,14500,94500.0,85224.32,0.0,80000.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=741&z=bidp,2017,58,DB CH&MP
+Columbia Heights Day,2017-02-01 00:00:00,2017-06-18 00:00:00,15000.0,15000.0,30000,45000.0,15714.8,0.0,15714.8,-714.8,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=742&z=bidp,2017,58,DB CH&MP
+TA assistance liaison,2017-02-01 00:00:00,2017-09-30 00:00:00,15000.0,15000.0,0,15000.0,15166.43,0.0,15166.43,-166.43,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=743&z=bidp,2017,58,DB CH&MP
+Business Technical Assistance,2017-02-01 00:00:00,2017-09-30 00:00:00,40000.0,40000.0,0,40000.0,39282.5,0.0,39282.5,717.5,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=745&z=bidp,2017,58,DB CH&MP
+Board Training,2017-01-01 00:00:00,2017-09-30 00:00:00,11975.0,11975.0,0,11975.0,11975.0,0.0,11975.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=749&z=bidp,2017,58,DB CH&MP
+Business Breakfasts,2017-02-01 00:00:00,2017-09-30 00:00:00,2000.0,2000.0,1000,3000.0,205.86,0.0,205.86,1794.14,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=744&z=bidp,2017,58,DB CH&MP
+Website Redevelopment,2017-02-28 00:00:00,2017-03-31 00:00:00,0.0,0.0,0,0.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=747&z=bidp,2017,58,DB CH&MP
+Movie Nights,2017-02-01 00:00:00,2017-09-30 00:00:00,2000.0,2000.0,0,2000.0,4333.0,0.0,3708.0,-1708.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=796&z=bidp,2017,58,DB CH&MP
+Volunteer development & retention,2017-02-01 00:00:00,2017-09-30 00:00:00,1000.0,1000.0,0,1000.0,1790.0,0.0,1790.0,-790.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=797&z=bidp,2017,58,DB CH&MP
+Accounting,2017-02-01 00:00:00,2017-09-30 00:00:00,7000.0,7000.0,0,7000.0,7000.0,0.0,7000.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=799&z=bidp,2017,58,DB CH&MP
+ER training and Market Study,2017-02-04 00:00:00,2017-09-30 00:00:00,9750.0,9750.0,0,9750.0,9750.0,0.0,9750.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=800&z=bidp,2017,58,DB CH&MP
+Branding Project,2017-01-01 00:00:00,2017-02-28 00:00:00,8000.0,8000.0,0,8000.0,9378.0,0.0,7943.02,56.98,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=746&z=bidp,2017,58,DB CH&MP
+NMSC conference & registration,2017-02-01 00:00:00,2017-09-30 00:00:00,1700.0,1700.0,0,1700.0,2464.39,0.0,2464.39,-764.39,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=801&z=bidp,2017,58,DB CH&MP
+Halloween Trick or Treat Business Promotion,2017-02-01 00:00:00,2017-09-30 00:00:00,1575.0,1575.0,0,1575.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=798&z=bidp,2017,58,DB CH&MP
+Fundraising Training & Assistance,2017-03-01 00:00:00,2017-09-30 00:00:00,5000.0,5000.0,0,5000.0,5000.0,0.0,5000.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=748&z=bidp,2017,58,DB CH&MP
+Business Recruitment Package,2013-07-01 00:00:00,2013-07-31 00:00:00,4860.0,0.0,0,4860.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=62&z=bh96,2013,7,HDCMS
+Annual High Heel Race,2013-09-01 00:00:00,2013-10-31 00:00:00,5500.0,0.0,0,5500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=64&z=bh96,2013,7,HDCMS
+Banners,2012-10-01 00:00:00,2013-09-30 00:00:00,6000.0,6000.0,0,6000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=51&z=bh96,2013,7,HDCMS
+Farmers market cross promotion,2013-03-01 00:00:00,2013-06-30 00:00:00,1500.0,1500.0,0,1500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=74&z=bh96,2013,7,HDCMS
+Bus Advertsing ,2013-01-01 00:00:00,2013-09-30 00:00:00,863.0,0.0,0,863.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=55&z=bh96,2013,7,HDCMS
+Business Needs Assessments,2013-01-01 00:00:00,2013-09-30 00:00:00,4500.0,4500.0,0,4500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=59&z=bh96,2013,7,HDCMS
+Holiday Merchant Contest,2012-12-01 00:00:00,2012-12-31 00:00:00,0.0,0.0,0,0.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=69&z=bh96,2013,7,HDCMS
+Financial review,2012-10-01 00:00:00,2013-06-30 00:00:00,18000.0,0.0,7000,25000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=141&z=bh96,2013,7,HDCMS
+Walking Tour Brochure,2013-06-01 00:00:00,2013-06-30 00:00:00,2000.0,2000.0,0,2000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=75&z=bh96,2013,7,HDCMS
+Monthly News Letter,2012-10-01 00:00:00,2013-09-30 00:00:00,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=63&z=bh96,2013,7,HDCMS
+Taste of Dupont,2013-02-01 00:00:00,2013-05-31 00:00:00,5625.0,5625.0,1875,7500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=66&z=bh96,2013,7,HDCMS
+Street Festivals,2013-06-01 00:00:00,2013-09-30 00:00:00,5000.0,5000.0,5000,10000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=67&z=bh96,2013,7,HDCMS
+Vacant Window Improvements,2013-01-01 00:00:00,2013-09-30 00:00:00,6000.0,6000.0,0,6000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=54&z=bh96,2013,7,HDCMS
+ADD-Design Services Program,2013-01-01 00:00:00,2013-09-30 00:00:00,5000.0,5000.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=56&z=bh96,2013,7,HDCMS
+Annual Report,2013-03-01 00:00:00,2013-06-30 00:00:00,500.0,500.0,1100,1600.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=73&z=bh96,2013,7,HDCMS
+Operate Effective Main Streets Program,2011-10-01 00:00:00,2013-09-30 00:00:00,60000.0,60000.0,20000,80000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=17&z=bh96,2013,7,HDCMS
+Maintain Program Website,2012-10-01 00:00:00,2013-09-30 00:00:00,3000.0,3000.0,0,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=70&z=bh96,2013,7,HDCMS
+Business Inventory,2012-10-01 00:00:00,2012-09-30 00:00:00,1800.0,1800.0,0,1800.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=58&z=bh96,2013,7,HDCMS
+Building Owner List,2013-02-01 00:00:00,2013-02-28 00:00:00,1800.0,1800.0,0,1800.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=60&z=bh96,2013,7,HDCMS
+Newspaper Advertisements,2012-10-01 00:00:00,2013-09-30 00:00:00,4500.0,4500.0,0,4500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=65&z=bh96,2013,7,HDCMS
+HDCMS brochure,2013-09-01 00:00:00,2013-09-30 00:00:00,1500.0,1500.0,0,1500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=57&z=bh96,2013,7,HDCMS
+First Friday,2013-05-03 00:00:00,2013-09-30 00:00:00,6000.0,6000.0,1250,7250.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=68&z=bh96,2013,7,HDCMS
+DCV serving elders better,2012-10-01 00:00:00,2013-09-30 00:00:00,3500.0,3500.0,0,3500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=72&z=bh96,2013,7,HDCMS
+Culinary crawl,2012-10-01 00:00:00,2013-09-30 00:00:00,5000.0,5000.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=71&z=bh96,2013,7,HDCMS
+Storefront Improvement Program,2012-10-01 00:00:00,2013-09-30 00:00:00,37580.0,37580.0,32000,69580.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=52&z=bh96,2013,7,HDCMS
+TA Implementation ,2012-10-01 00:00:00,2013-09-30 00:00:00,28800.0,28800.0,0,28800.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=61&z=bh96,2013,7,HDCMS
+Locavore promotion,2013-03-01 00:00:00,2013-09-30 00:00:00,5800.0,5800.0,0,5800.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=53&z=bh96,2013,7,HDCMS
+Admin,,,51100.0,51100.0,50000,101100.0,26250.0,0.0,26192.31,24907.69,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=914&z=bimg,2018,80,HSMS
+Audit & accounting,,,7000.0,7000.0,0,7000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=915&z=bimg,2018,80,HSMS
+Training & travel,,,3000.0,3000.0,0,3000.0,1687.88,0.0,1687.88,1312.12,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=916&z=bimg,2018,80,HSMS
+H Street festival,,,20000.0,20000.0,270000,290000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=917&z=bimg,2018,80,HSMS
+Technical assistance ,,,20000.0,20000.0,0,20000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=919&z=bimg,2018,80,HSMS
+Marketing & advertising,,,25000.0,25000.0,0,25000.0,2500.0,0.0,2500.0,22500.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=918&z=bimg,2018,80,HSMS
+SIP,,,19900.0,19900.0,0,19900.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=920&z=bimg,2018,80,HSMS
+Update Commercial Corridor Property/Contact Inventory,2013-01-02 00:00:00,2013-03-30 00:00:00,5000.0,5000.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=82&z=bh9q,2013,4,SMS
+Business Owner “Meet and Greet” Events,2012-10-01 00:00:00,2013-06-14 00:00:00,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=85&z=bh9q,2013,4,SMS
+Shaw Art Walk,2013-01-04 00:00:00,2013-05-31 00:00:00,1500.0,0.0,500,2000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=91&z=bh9q,2013,4,SMS
+Taste of Shaw Event,2013-01-07 00:00:00,2013-06-30 00:00:00,5000.0,0.0,5000,10000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=80&z=bh9q,2013,4,SMS
+SMS Storefront Improvement Program,2013-01-07 00:00:00,2013-07-31 00:00:00,11500.0,0.0,2500,14000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=81&z=bh9q,2013,4,SMS
+Upgrade and Maintain Shaw Main Streets Website,2013-01-02 00:00:00,2013-03-31 00:00:00,5000.0,5000.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=19&z=bh9q,2013,4,SMS
+Shaw Open House Event,2013-05-01 00:00:00,2013-09-30 00:00:00,7173.75,7173.75,0,7173.75,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=79&z=bh9q,2013,4,SMS
+Art All Night,2013-01-07 00:00:00,2013-09-30 00:00:00,16376.31,16376.31,30000,46376.31,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=90&z=bh9q,2013,4,SMS
+Business Health Checks and Technical Assistance,2013-01-07 00:00:00,2013-05-31 00:00:00,5000.0,5000.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=83&z=bh9q,2013,4,SMS
+Shaw Main Streets Newsletter,2012-11-30 00:00:00,2013-09-30 00:00:00,10000.0,10000.0,10000,20000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=78&z=bh9q,2013,4,SMS
+Shaw Main Streets Dining and Entertainment Guide,2012-12-07 00:00:00,2013-09-30 00:00:00,10000.0,10000.0,0,10000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=89&z=bh9q,2013,4,SMS
+Social Media and Web Marketing Technical Assistance,2012-12-03 00:00:00,2013-06-30 00:00:00,35328.49,35328.49,0,35328.49,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=84&z=bh9q,2013,4,SMS
+Administrative Expenses,2011-10-01 00:00:00,2013-09-30 00:00:00,60000.0,60000.0,70000,130000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=92&z=bh9q,2013,4,SMS
+Shaw Main Streets Business Directory,2012-12-07 00:00:00,2013-09-30 00:00:00,10000.0,10000.0,7500,17500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=88&z=bh9q,2013,4,SMS
+Collaborative Cross Promotions: Advertising,2012-10-01 00:00:00,2013-09-30 00:00:00,29668.0,29668.0,0,29668.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=86&z=bh9q,2013,4,SMS
+Collaborative Cross Promotions: Flyers,2013-01-01 00:00:00,2013-09-30 00:00:00,5453.45,5453.45,0,5453.45,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=87&z=bh9q,2013,4,SMS
+National Main Street Conference,2016-04-01 00:00:00,2016-05-31 00:00:00,3000.0,3000.0,0,3000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=410&z=bia5,2016,42,NCMS
+Board Retreat,2015-10-08 00:00:00,2015-12-31 00:00:00,2500.0,2500.0,0,2500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=425&z=bia5,2016,42,NCMS
+Annual Report,2016-01-01 00:00:00,2016-01-30 00:00:00,1100.0,1100.0,0,1100.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=428&z=bia5,2016,42,NCMS
+Business Recruitment Event,2016-03-01 00:00:00,2016-03-31 00:00:00,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=435&z=bia5,2016,42,NCMS
+Strategic/Business Plan Continuation,2015-12-01 00:00:00,2016-01-31 00:00:00,14900.0,14900.0,0,14900.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=434&z=bia5,2016,42,NCMS
+NMSC Certification Courses,2016-01-01 00:00:00,2016-09-30 00:00:00,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=433&z=bia5,2016,42,NCMS
+Streetscape Design/Public Art,2016-01-01 00:00:00,2016-03-01 00:00:00,5000.0,5000.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=431&z=bia5,2016,42,NCMS
+Streetscape Lighting Projects,2016-01-01 00:00:00,2016-03-30 00:00:00,20000.0,20000.0,0,20000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=430&z=bia5,2016,42,NCMS
+Art All Night,2016-04-01 00:00:00,2016-09-30 00:00:00,20000.0,20000.0,30000,50000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=429&z=bia5,2016,42,NCMS
+Annual Meeting,2016-06-01 00:00:00,2016-06-30 00:00:00,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=427&z=bia5,2016,42,NCMS
+Small Business Saturday,2015-11-25 00:00:00,2015-11-28 00:00:00,5500.0,5500.0,0,5500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=426&z=bia5,2016,42,NCMS
+Office Space,2016-01-01 00:00:00,2016-09-30 00:00:00,4500.0,4500.0,0,4500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=424&z=bia5,2016,42,NCMS
+Annual Accounting and Audit,2015-10-01 00:00:00,2016-09-30 00:00:00,7000.0,7000.0,3000,10000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=409&z=bia5,2016,42,NCMS
+National Main Street Center Due,2015-10-01 00:00:00,2015-10-01 00:00:00,350.0,0.0,0,350.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=408&z=bia5,2016,42,NCMS
+ED Salary,2015-10-01 00:00:00,2016-09-30 00:00:00,33000.0,33000.0,57000,90000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=407&z=bia5,2016,42,NCMS
+Vacant Staging Project,2016-01-01 00:00:00,2016-03-31 00:00:00,5500.0,5500.0,0,5500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=432&z=bia5,2016,42,NCMS
+Accounting & Financial Services,,,7000.0,7000.0,6140,13140.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=832&z=bief,2018,62,TMS
+Executive Director,,,51100.0,51100.0,40100,91200.0,16029.0,0.0,16029.0,35071.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=831&z=bief,2018,62,TMS
+Storefront Renovation (pilot),,,32000.0,32000.0,0,32000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=840&z=bief,2018,62,TMS
+Storefront Improvement Project small grants,,,5000.0,5000.0,0,5000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=841&z=bief,2018,62,TMS
+Annual Report,,,1000.0,1000.0,0,1000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=834&z=bief,2018,62,TMS
+Newsletter and surveys,,,3859.0,3859.0,221,4080.0,446.49,0.0,446.49,3412.51,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=833&z=bief,2018,62,TMS
+Art All Night,,,15975.0,15975.0,5000,20975.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=838&z=bief,2018,62,TMS
+Annual Meeting,,,182.0,182.0,1650,1832.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=835&z=bief,2018,62,TMS
+TMS Website,,,790.0,790.0,0,790.0,104.69,0.0,99.0,691.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=836&z=bief,2018,62,TMS
+Small Business Technical Assistance Program,,,12000.0,12000.0,0,12000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=844&z=bief,2018,62,TMS
+Quarterly Ribbon Cuttings,,,1850.0,1850.0,0,1850.0,75.0,0.0,75.0,1775.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=843&z=bief,2018,62,TMS
+Business Database Maintenance,,,1440.0,1440.0,0,1440.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=845&z=bief,2018,62,TMS
+Seasonal Banners,,,7060.0,7060.0,375,7435.0,1270.0,0.0,1270.0,5790.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=839&z=bief,2018,62,TMS
+Tenley WinterFest,,,3120.0,3120.0,2831,5951.0,2057.39,0.0,2057.39,1062.61,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=837&z=bief,2018,62,TMS
+Fessenden Park,,,500.0,500.0,1000,1500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=842&z=bief,2018,62,TMS
+Training & Technical Assistance - Staff & Board,,,3000.0,3000.0,895,3895.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=846&z=bief,2018,62,TMS
+Accounting and Audit,2016-10-01 00:00:00,2017-09-30 00:00:00,7000.0,7000.0,0,7000.0,5120.0,0.0,5120.0,1880.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=756&z=bib4,2017,48,EMMS
+Quarterly Annual Campaign,2016-11-01 00:00:00,2017-09-30 00:00:00,0.0,0.0,750,750.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=752&z=bib4,2017,48,EMMS
+C Street Plaza Dedication,2017-07-01 00:00:00,2017-08-31 00:00:00,0.0,0.0,500,500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=766&z=bib4,2017,48,EMMS
+Designation Ceremony,2017-03-03 00:00:00,2017-03-03 00:00:00,500.0,500.0,0,500.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=754&z=bib4,2017,48,EMMS
+Advertising and Marketing,2016-11-01 00:00:00,2017-09-30 00:00:00,900.0,900.0,0,900.0,712.0,0.0,712.0,188.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=768&z=bib4,2017,48,EMMS
+Staff and Board Training,2016-11-01 00:00:00,2017-09-30 00:00:00,40000.0,40000.0,0,40000.0,41748.03,0.0,40000.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=755&z=bib4,2017,48,EMMS
+EMMS Branding and Map,2017-02-01 00:00:00,2017-09-30 00:00:00,12000.0,12000.0,1500,13500.0,12000.0,0.0,12000.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=761&z=bib4,2017,48,EMMS
+Database and Website Management ,2016-10-01 00:00:00,2017-09-30 00:00:00,1500.0,1500.0,0,1500.0,1082.81,0.0,1082.81,417.19,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=753&z=bib4,2017,48,EMMS
+Advertising Grant Program,2016-11-01 00:00:00,2017-09-30 00:00:00,2000.0,2000.0,0,2000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=770&z=bib4,2017,48,EMMS
+Improvement Grants,2016-11-01 00:00:00,2017-09-30 00:00:00,20000.0,20000.0,0,20000.0,20000.0,0.0,20000.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=757&z=bib4,2017,48,EMMS
+Administrative and Operating Costs,2016-11-01 00:00:00,2017-09-30 00:00:00,78450.0,78450.0,27322,105772.0,80000.0,0.0,80000.0,-1550.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=751&z=bib4,2017,48,EMMS
+Economic Development Assessment,2017-01-02 00:00:00,2017-09-30 00:00:00,5000.0,5000.0,0,5000.0,4000.0,0.0,4000.0,1000.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=759&z=bib4,2017,48,EMMS
+"Business Surveys, Census, and Roundtables",2016-11-01 00:00:00,2017-09-30 00:00:00,2000.0,2000.0,0,2000.0,2180.0,0.0,2180.0,-180.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=760&z=bib4,2017,48,EMMS
+Welcome Packets,2017-02-01 00:00:00,2017-03-31 00:00:00,450.0,450.0,0,450.0,221.24,0.0,221.24,228.76,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=762&z=bib4,2017,48,EMMS
+Market Week,2016-11-01 00:00:00,2017-09-30 00:00:00,8250.0,8250.0,0,8250.0,10065.48,0.0,10065.48,-1815.48,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=764&z=bib4,2017,48,EMMS
+Hard Hats at Hines,2017-05-01 00:00:00,2017-05-31 00:00:00,5000.0,5000.0,5000,10000.0,6426.72,0.0,6426.72,-1426.72,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=765&z=bib4,2017,48,EMMS
+Streetscape Assessment and Project Prioritization,2017-01-02 00:00:00,2017-08-31 00:00:00,5000.0,5000.0,1000,6000.0,6000.0,0.0,6000.0,-1000.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=758&z=bib4,2017,48,EMMS
+Night at the Market,2017-09-01 00:00:00,2017-09-30 00:00:00,7650.0,7650.0,0,7650.0,7213.64,0.0,7270.35,379.65,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=767&z=bib4,2017,48,EMMS
+Beat the Heat,2017-04-30 00:00:00,2017-05-04 00:00:00,1500.0,1500.0,0,1500.0,1417.18,0.0,1417.18,82.82,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=769&z=bib4,2017,48,EMMS
+Fourth of July Movie Day at Eastern Market,2016-10-01 00:00:00,2017-09-30 00:00:00,2500.0,2500.0,0,2500.0,2569.14,0.0,2569.14,-69.14,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=763&z=bib4,2017,48,EMMS
+EMMS SBTA Brochure,,,500.0,500.0,0,500.0,149.79,0.0,149.79,350.21,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=808&z=bib4,2017,48,EMMS
+Plaque Project,,,1000.0,0.0,0,1000.0,842.0,0.0,842.0,-842.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=830&z=bib4,2017,48,EMMS
+Santa Arrives on 8th Street,2016-12-16 00:00:00,2016-12-16 00:00:00,1000.0,1000.0,0,1000.0,1698.1,0.0,1302.42,-302.42,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=620&z=bice,2017,50,BRMS
+Signage Grant,2016-10-01 00:00:00,2017-09-30 00:00:00,27500.0,27500.0,0,27500.0,32943.74,0.0,32943.74,-5443.74,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=651&z=bice,2017,50,BRMS
+Easter Egg Hunt,2017-04-15 00:00:00,2017-04-15 00:00:00,500.0,500.0,0,500.0,236.23,0.0,236.23,263.77,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=650&z=bice,2017,50,BRMS
+Taste of 8th,2017-04-29 00:00:00,2017-04-29 00:00:00,5000.0,5000.0,0,5000.0,5511.29,0.0,5311.81,-311.81,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=627&z=bice,2017,50,BRMS
+BRMS Business Map Project,2016-10-01 00:00:00,2017-09-30 00:00:00,4500.0,4500.0,0,4500.0,2059.99,0.0,2059.99,2440.01,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=634&z=bice,2017,50,BRMS
+Business Retention - SBTA,2016-10-01 00:00:00,2017-09-30 00:00:00,17500.0,17500.0,0,17500.0,4265.74,0.0,4000.0,13500.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=630&z=bice,2017,50,BRMS
+Annual Meeting,2017-03-15 00:00:00,2017-03-15 00:00:00,1000.0,1000.0,0,1000.0,3871.9,0.0,2930.2,-1930.2,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=628&z=bice,2017,50,BRMS
+Volunteer Recruitment,2016-10-01 00:00:00,2017-09-30 00:00:00,1000.0,1000.0,0,1000.0,402.5,0.0,402.5,597.5,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=649&z=bice,2017,50,BRMS
+Light Pole Banners,2016-10-01 00:00:00,2017-09-30 00:00:00,4000.0,4000.0,0,4000.0,275.0,0.0,275.0,3725.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=626&z=bice,2017,50,BRMS
+Outreach to Business,2017-01-01 00:00:00,2017-03-31 00:00:00,2500.0,2500.0,0,2500.0,2881.61,0.0,2881.61,-381.61,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=622&z=bice,2017,50,BRMS
+ED Salary,2016-10-01 00:00:00,2017-09-30 00:00:00,38700.0,38700.0,0,38700.0,38700.0,0.0,38700.0,0.0,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=621&z=bice,2017,50,BRMS
+Share Ad Campaign,2016-10-01 00:00:00,2017-09-30 00:00:00,0.0,0.0,0,0.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=637&z=bice,2017,50,BRMS
+Audit,,,5000.0,5000.0,0,5000.0,6288.22,0.0,6288.22,-1288.22,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=970&z=bice,2017,50,BRMS
+Culinary Crawl ,,,2300.0,2300.0,0,2300.0,1752.67,0.0,1752.67,547.33,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=908&z=bice,2017,50,BRMS
+Fall Festival ,,,14000.0,14000.0,0,14000.0,22346.19,0.0,22346.19,-8346.19,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=904&z=bice,2017,50,BRMS
+MSARP,,,1506.71,1506.71,0,1506.71,1508.51,0.0,1508.51,-1.7999999999997,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=907&z=bice,2017,50,BRMS
+Business Retention,2016-10-01 00:00:00,2017-09-30 00:00:00,20000.0,0.0,0,20000.0,,,,,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=636&z=bice,2017,50,BRMS
+Conference,,,1880.87,1880.87,0,1880.87,3262.28,0.0,2212.57,-331.7,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=906&z=bice,2017,50,BRMS
+Garden Party ,,,7400.0,7400.0,0,7400.0,7061.14,0.0,3848.34,3551.66,https://octo.quickbase.com/db/bmnvf7rky?a=API_GenAddRecordForm&_fid_27=905&z=bice,2017,50,BRMS
