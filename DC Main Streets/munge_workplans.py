@@ -37,7 +37,8 @@ def load_dfs(filenames):
     dfs = {'%s.%s' % (filename, sheet): df for filename in filenames
            for sheet, df in pd.read_excel(filename, sheet_name=None).items()}
     return pd.concat([df.pipe(parse_filename_to_columns, filename)
-                      for filename, df in dfs.items()])
+                      for filename, df in dfs.items()])\
+        .pipe(snake_case_column_names)
 
 
 def extract_workplans(zip_path='./Workplans.zip'):
